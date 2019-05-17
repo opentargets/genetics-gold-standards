@@ -1,0 +1,208 @@
+{
+    "type": "object",
+    "properties": {
+
+
+        "sentinel_variant": {
+            "type": "object",
+            "title": "Senetial variant information", 
+            "properties": {
+                "rsid": {
+                    "type": "string"
+                },
+                "chromosome": {
+                    "type": "string"
+                },
+                "position": {
+                    "type": "integer"
+                },
+                "build": {
+                    "type": "string",
+                    "enum": [
+                        "GRCh37",
+                        "GRCh38"
+                    ]
+                },
+                "reference_allele": {
+                    "type": "string",
+                    "pattern": "^[ATGC]+$"
+                },
+                "alternative_allele": {
+                    "type": "string",
+                    "pattern": "^[ATGC]+$"
+                }
+            },
+            "required": [
+                "reference_allele",
+                "alternative_allele"
+            ],
+            "anyOf": [
+                {
+                    "required": [
+                        "rsid"
+                    ]
+                },
+                {
+                    "required": [
+                        "chromosome",
+                        "position",
+                        "build"
+                    ]
+                }
+            ],
+            "additionalProperties": false
+        },
+
+
+        "trait_info": {
+            "type": "object",
+            "title": "Information about the trait",
+            "properties": {
+                "trait_name": {
+                    "type": "string"
+                },
+                "ontology": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "pattern": "^(EFO|HMBD).+"
+                    }
+                }
+            },
+            "required": [
+                "trait_name",
+                "ontology"
+            ],
+            "additionalProperties": true
+        },
+
+
+        "association_info": {
+            "type": "object",
+            "title": "Information about the variant-trait association",
+            "properties": {
+                "neg_log_pval": {
+                    "type": "number",
+                    "exclusiveMinimum": 0,
+                    "maximum": 1
+                },
+                "ancestry": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "source": {
+                    "type": "string",
+                    "pattern": "^(PMID|doi).+"
+                }
+            },
+            "required": [
+                "source"
+            ],
+            "additionalProperties": true
+        },
+
+
+        "gold_standard_info": {
+            "type": "object",
+            "title": "Information about gold-standard variant-gene evidence",
+            "properties": {
+                "gene_id": {
+                    "type": "string",
+                    "pattern": "^ENSG"
+                },
+                "evidence": {
+                    "type": "array",
+                    "items": {
+                        "description": "List of evidences linking the variant to the gene",
+                        "type": "object",
+                        "properties": {
+                            "class": {
+                                "type": "string",
+                                "enum": [
+                                    "expert curated",
+                                    "functional observational",
+                                    "functional experimental",
+                                    "drug"
+                                ]
+                            },
+                            "description": {
+                                "type": "string"
+                            },
+                            "source": {
+                                "type": "string",
+                                "pattern": "^(PMID|doi).+"
+                            },
+                            "date": {
+                                "type": "string",
+                                "format": "date",
+                                "description": "Useful for using date to stratify gold-standards"
+                            },
+                            "confidence": {
+                                "type": "string",
+                                "enum": [
+                                    "High",
+                                    "Low"
+                                ]
+                            },
+                            "curated_by": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "class",
+                            "description",
+                            "source",
+                            "confidence",
+                            "curated_by"
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "gene_id",
+                "evidence"
+            ],
+            "additionalProperties": true
+        },
+
+
+        "metadata": {
+            "type": "object",
+            "title": "Metadata",
+            "properties": {
+                "set_label": {
+                    "type": "string",
+                    "description": "Set that this gold-standard belongs to"
+                },
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "submitted_by": {
+                    "type": "string"
+                },
+                "reviewed_by": {
+                    "type": "string"
+                },
+                "date_added": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "comments": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "set_label",
+                "submitted_by",
+                "reviewed_by",
+                "date_added"
+            ],
+            "additionalProperties": true
+        }
+    }
+}
