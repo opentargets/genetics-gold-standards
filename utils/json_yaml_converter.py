@@ -37,10 +37,10 @@ def convert_json_to_yaml(inf, outf):
         yaml.dump(data, out_h, allow_unicode=True, default_flow_style=False)
 
 def convert_yaml_to_json(inf, outf):
-    # Load json
+    # Load yaml
     with open(inf, 'r') as in_h:
-        data = yaml.load(in_h)
-    # Write yaml
+        data = yaml.load(in_h, Loader=yaml.FullLoader)
+    # Write json
     with open(outf, 'w') as out_h:
         json.dump(data, out_h,  ensure_ascii=False, indent=2)
 

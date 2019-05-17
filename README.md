@@ -23,6 +23,6 @@ python utils/json_yaml_converter.py --input file.yaml --output file.json
 python utils/json_yaml_converter.py --input file.json --output file.yaml
 
 # Validate schema
-python validation/gs_validator.py --input test.single.json --schema validation/schema.v1.json 
+python validation/gs_validator.py --input test.single.json --schema validation/goldstandard_schema.v1.0.json
 
 ```

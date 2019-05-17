@@ -1,0 +1,54 @@
+{
+    "sentinel_variant": {
+        "locus_GRCh37": {
+            "chromosome": "1",
+            "position": 100
+        },
+        "alleles": {
+            "reference": "T",
+            "alternative": "G"
+        }
+    },
+
+    "trait_info": {
+        "reported_trait_name": "cat1",
+        "standard_trait_name": "cat",
+        "ontology": ["EFO123123", "HMBD213"]
+    },
+
+    "association_info": {
+        "neg_log_pval": 0.00001,
+        "ancestry": ["EUR", "AFR"],
+        "source": "PMID213123"
+    },
+
+    "gold_standard_info": {
+        "gene_id": "ENSG124123",
+        "evidence": [
+            {
+                "class": "expert curated",
+                "description": "i know this is associated!",
+                "source": ["PMID123123"],
+                "confidence": "High",
+                "curated_by": "Ed"
+            },
+            {
+                "class": "drug",
+                "description": "Drug A -> target trial",
+                "source": ["PMID123123"],
+                "confidence": "Low",
+                "curated_by": "Ed"
+            }
+
+        ]
+    },
+
+    "metadata": {
+        "set_label": "metabolie",
+        "tags": ["tag1", "tag2"],
+        "submitted_by": "Ed",
+        "date_added": "2019-10-01",
+        "reviewed_by": "Ed",
+        "comments": "blah blah"
+    }
+}

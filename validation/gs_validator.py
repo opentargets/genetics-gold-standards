@@ -23,15 +23,16 @@ def main():
     # Load schema
     schema = load_input(args.schema)
     
-    # Print
-    print('\n# Printing data..\n')
-    pprint(data)
-    print('\n# Validating...\n')    
-    
     # Validate
-    validate(instance=data, schema=schema)
+    if isinstance(data, list):
+        for i, record in enumerate(data):
+            print('Validating record {} of {}...'.format(i, len(data)))
+            validate(instance=record, schema=schema)
+    else:
+        print('Validating single record...')
+        validate(instance=data, schema=schema)
 
-    print('SUCCESS\n')
+    print('SUCCESS')
 
     return 0
 
@@ -44,7 +45,7 @@ def load_input(inf):
             data = json.load(in_h)
     elif ext == 'yaml':
         with open(inf, 'r') as in_h:
-            data = yaml.load(in_h)
+            data = yaml.load(in_h, Loader=yaml.FullLoader)
     else:
         sys.exit('Error, --input extension not allowed')
     return data
