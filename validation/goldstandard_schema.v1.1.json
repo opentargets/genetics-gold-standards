@@ -116,13 +116,18 @@
                         "type": "string"
                     }
                 },
-                "source": {
+                "pubmed_id": {
                     "type": "string",
-                    "description": "Could use a pattern ^(PMID|doi).+"
+                    "pattern": "^[0-9]{8}$"
+                }
+                ,
+                "gwas_catalog_id": {
+                    "type": "string",
+                    "pattern": "^GCST[0-9]{6}$"
                 }
             },
             "required": [
-                "source"
+                "pubmed_id"
             ],
             "additionalProperties": true
         },
@@ -154,12 +159,9 @@
                             "description": {
                                 "type": "string"
                             },
-                            "source": {
-                                "type": "array",
-                                "items": {
-                                    "type": "string",
-                                    "comment": "Could use regex to validate ^(PMID|doi).+"
-                                }
+                            "pubmed_id": {
+                                "type": "string",
+                                "pattern": "^[0-9]{8}$"
                             },
                             "date": {
                                 "type": "string",
@@ -181,7 +183,7 @@
                         "required": [
                             "class",
                             "description",
-                            "source",
+                            "pubmed_id",
                             "confidence",
                             "curated_by"
                         ]
