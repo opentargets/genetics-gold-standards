@@ -52,21 +52,6 @@
       ],
       "reported_trait_name": "Carotenoid and tocopherol levels (beta-carotene)",
       "standard_trait_name": "B-Carotene"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 81264597
-      },
-      "rsid": "rs6564851",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 81230992
-      }
     }
   },
   {
@@ -122,21 +107,6 @@
       ],
       "reported_trait_name": "Bilirubin levels",
       "standard_trait_name": "Bilirubin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 234672639
-      },
-      "rsid": "rs6742078",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 233763993
-      }
     }
   },
   {
@@ -193,21 +163,6 @@
       ],
       "reported_trait_name": "Bilirubin levels",
       "standard_trait_name": "Bilirubin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "X",
-        "position": 153554404
-      },
-      "rsid": "rs766420",
-      "locus_GRCh38": {
-        "chromosome": "X",
-        "position": 154326058
-      }
     }
   },
   {
@@ -263,21 +218,6 @@
       ],
       "reported_trait_name": "Sphingolipid levels (SM 14:0Mol%)",
       "standard_trait_name": "sphingomyelin 14∶0 molar percentage"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "14",
-        "position": 64235556
-      },
-      "rsid": "rs7157785",
-      "locus_GRCh38": {
-        "chromosome": "14",
-        "position": 63768838
-      }
     }
   },
   {
@@ -333,21 +273,6 @@
       ],
       "reported_trait_name": "Fasting glucose-related traits (FPG)",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 169763148
-      },
-      "rsid": "rs560887",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 168906638
-      }
     }
   },
   {
@@ -403,21 +328,6 @@
       ],
       "reported_trait_name": "Vitamin D insufficiency",
       "standard_trait_name": "25-Hydroxyvitamin D2"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 72608383
-      },
-      "rsid": "rs2282679",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 71742666
-      }
     }
   },
   {
@@ -473,21 +383,6 @@
       ],
       "reported_trait_name": "Vitamin D insufficiency",
       "standard_trait_name": "25-Hydroxyvitamin D2"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 14914878
-      },
-      "rsid": "rs10741657",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 14893332
-      }
     }
   },
   {
@@ -543,21 +438,6 @@
       ],
       "reported_trait_name": "Vitamin D insufficiency",
       "standard_trait_name": "25-Hydroxyvitamin D2"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 71167449
-      },
-      "rsid": "rs12785878",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 71456403
-      }
     }
   },
   {
@@ -613,21 +493,6 @@
       ],
       "reported_trait_name": "Phosphorus levels",
       "standard_trait_name": "Phosphorus"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 21823292
-      },
-      "rsid": "rs1697421",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 21496799
-      }
     }
   },
   {
@@ -683,21 +548,6 @@
       ],
       "reported_trait_name": "Phosphorus levels",
       "standard_trait_name": "Phosphorus"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 4606168
-      },
-      "rsid": "rs2970818",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 4497002
-      }
     }
   },
   {
@@ -753,21 +603,6 @@
       ],
       "reported_trait_name": "Magnesium levels",
       "standard_trait_name": "Magneseium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 155162067
-      },
-      "rsid": "rs4072037",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 155192276
-      }
     }
   },
   {
@@ -823,21 +658,6 @@
       ],
       "reported_trait_name": "Magnesium levels",
       "standard_trait_name": "Magnesium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 77499796
-      },
-      "rsid": "rs11144134",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 74884880
-      }
     }
   },
   {
@@ -893,21 +713,6 @@
       ],
       "reported_trait_name": "N-glycan levels (DG1)",
       "standard_trait_name": "N-glycan measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "14",
-        "position": 65758642
-      },
-      "rsid": "rs7159888",
-      "locus_GRCh38": {
-        "chromosome": "14",
-        "position": 65291924
-      }
     }
   },
   {
@@ -963,21 +768,6 @@
       ],
       "reported_trait_name": "D-dimer levels",
       "standard_trait_name": "D dimer measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 95053353
-      },
-      "rsid": "rs12029080",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 94587797
-      }
     }
   },
   {
@@ -1033,21 +823,6 @@
       ],
       "reported_trait_name": "D-dimer levels",
       "standard_trait_name": "D dimer measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 169477574
-      },
-      "rsid": "rs6687813",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 169508336
-      }
     }
   },
   {
@@ -1103,21 +878,6 @@
       ],
       "reported_trait_name": "Vitamin E levels",
       "standard_trait_name": "Alpha-Tocopherol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 15990431
-      },
-      "rsid": "rs2108622",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 15879621
-      }
     }
   },
   {
@@ -1173,21 +933,6 @@
       ],
       "reported_trait_name": "Phospholipid levels (plasma) (DPA)",
       "standard_trait_name": "Docosapentaenoic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 10982973
-      },
-      "rsid": "rs3734398",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 10982740
-      }
     }
   },
   {
@@ -1243,21 +988,6 @@
       ],
       "reported_trait_name": "Retinol levels",
       "standard_trait_name": "Vitamin A"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 95348182
-      },
-      "rsid": "rs10882272",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 93588425
-      }
     }
   },
   {
@@ -1313,21 +1043,6 @@
       ],
       "reported_trait_name": "Retinol levels",
       "standard_trait_name": "Vitamin A"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "18",
-        "position": 29187279
-      },
-      "rsid": "rs1667255",
-      "locus_GRCh38": {
-        "chromosome": "18",
-        "position": 31607316
-      }
     }
   },
   {
@@ -1391,21 +1106,6 @@
       ],
       "reported_trait_name": "Metabolic traits (caffeine/quinate + 3 other traits)",
       "standard_trait_name": "Caffeine / Quinic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 17309279
-      },
-      "rsid": "rs12670403",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 17269655
-      }
     }
   },
   {
@@ -1461,21 +1161,6 @@
       ],
       "reported_trait_name": "Metabolic traits (inosine + 1 other trait)",
       "standard_trait_name": "Inosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 86117129
-      },
-      "rsid": "rs494562",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 85407411
-      }
     }
   },
   {
@@ -1531,21 +1216,6 @@
       ],
       "reported_trait_name": "Testosterone levels (Testosterone)",
       "standard_trait_name": "Testosterone"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 7521915
-      },
-      "rsid": "rs12150660",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 7618597
-      }
     }
   },
   {
@@ -1602,21 +1272,6 @@
       ],
       "reported_trait_name": "Metabolite levels (Ala, Val)",
       "standard_trait_name": "L-Alanine / L-Valine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 65220910
-      },
-      "rsid": "rs2160387",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 64993776
-      }
     }
   },
   {
@@ -1673,21 +1328,6 @@
       ],
       "reported_trait_name": "Metabolite levels (Phe, Tyr)",
       "standard_trait_name": "L-Phenylalanine / L-Tyrosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 71634811
-      },
-      "rsid": "rs4788815",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 71600908
-      }
     }
   },
   {
@@ -1743,21 +1383,6 @@
       ],
       "reported_trait_name": "Lipid metabolism phenotypes (LA/PUFA)",
       "standard_trait_name": "Linoleic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 68562328
-      },
-      "rsid": "rs2229738",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 68794860
-      }
     }
   },
   {
@@ -1814,21 +1439,6 @@
       ],
       "reported_trait_name": "Phospholipid levels (plasma) (proportions (PC 32∶0/PC 34∶1))",
       "standard_trait_name": "similar to Phosphatidylcholine(18:0/14:0)|Phosphatidylcholine(16:1/18:0)"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 32136547
-      },
-      "rsid": "rs1061808",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 32168770
-      }
     }
   },
   {
@@ -1884,21 +1494,6 @@
       ],
       "reported_trait_name": "Sphingolipid levels (levels)",
       "standard_trait_name": "sphingolipid measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 47551863
-      },
-      "rsid": "rs13106975",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 47549846
-      }
     }
   },
   {
@@ -1954,21 +1549,6 @@
       ],
       "reported_trait_name": "Arsenic metabolism  (DMA%)",
       "standard_trait_name": "Dimethylarsinate"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 104623578
-      },
-      "rsid": "rs9527",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 102863821
-      }
     }
   },
   {
@@ -2031,21 +1611,6 @@
       ],
       "reported_trait_name": "Renal function-related traits (urea)",
       "standard_trait_name": "Urea"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 64464085
-      },
-      "rsid": "rs504915",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 64696613
-      }
     }
   },
   {
@@ -2101,21 +1666,6 @@
       ],
       "reported_trait_name": "Renal function-related traits (BUN)",
       "standard_trait_name": "Urea"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "18",
-        "position": 43187130
-      },
-      "rsid": "rs7227483",
-      "locus_GRCh38": {
-        "chromosome": "18",
-        "position": 45607165
-      }
     }
   },
   {
@@ -2170,21 +1720,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 170713290
-      },
-      "rsid": "rs1280",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 170995501
-      }
     }
   },
   {
@@ -2239,21 +1774,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 185513392
-      },
-      "rsid": "rs7651090",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 185795604
-      }
     }
   },
   {
@@ -2308,21 +1828,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 95539448
-      },
-      "rsid": "rs4869272",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 96203744
-      }
     }
   },
   {
@@ -2377,21 +1882,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 44231886
-      },
-      "rsid": "rs6975024",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 44192287
-      }
     }
   },
   {
@@ -2446,21 +1936,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 92708710
-      },
-      "rsid": "rs10830963",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 92975544
-      }
     }
   },
   {
@@ -2522,21 +1997,6 @@
       ],
       "reported_trait_name": "MAGIC Fasting Glucose GWAS/Metabochip 2012",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "13",
-        "position": 28487599
-      },
-      "rsid": "rs11619319",
-      "locus_GRCh38": {
-        "chromosome": "13",
-        "position": 27913462
-      }
     }
   },
   {
@@ -2592,21 +2052,6 @@
       ],
       "reported_trait_name": "Urate levels",
       "standard_trait_name": "Uric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 145723739
-      },
-      "rsid": "rs1471633",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 145711327
-      }
     }
   },
   {
@@ -2662,21 +2107,6 @@
       ],
       "reported_trait_name": "Urate levels",
       "standard_trait_name": "Uric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 9944052
-      },
-      "rsid": "rs12498742",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 9942428
-      }
     }
   },
   {
@@ -2732,21 +2162,6 @@
       ],
       "reported_trait_name": "Urate levels",
       "standard_trait_name": "Uric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 89052323
-      },
-      "rsid": "rs2231142",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 88131171
-      }
     }
   },
   {
@@ -2802,21 +2217,6 @@
       ],
       "reported_trait_name": "Stearic acid (18:0) plasma levels",
       "standard_trait_name": "Stearic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 211918244
-      },
-      "rsid": "rs11119805",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 211744902
-      }
     }
   },
   {
@@ -2872,21 +2272,6 @@
       ],
       "reported_trait_name": "Thyroid hormone levels (FT4: free thyroxine)",
       "standard_trait_name": "Thyroxine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 54375570
-      },
-      "rsid": "rs2235544",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 53909897
-      }
     }
   },
   {
@@ -2942,21 +2327,6 @@
       ],
       "reported_trait_name": "Thyroid hormone levels (FT4: free thyroxine)",
       "standard_trait_name": "Thyroxine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 100591463
-      },
-      "rsid": "rs7045138",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 97829181
-      }
     }
   },
   {
@@ -3012,21 +2382,6 @@
       ],
       "reported_trait_name": "Thyroid hormone levels (FT4: free thyroxine)",
       "standard_trait_name": "Thyroxine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 139089679
-      },
-      "rsid": "rs7860634",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 136197833
-      }
     }
   },
   {
@@ -3085,21 +2440,6 @@
       ],
       "reported_trait_name": "Estradiol plasma levels (breast cancer)",
       "standard_trait_name": "Estradiol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 98282189
-      },
-      "rsid": "rs1864729",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 97269961
-      }
     }
   },
   {
@@ -3155,21 +2495,6 @@
       ],
       "reported_trait_name": "Blood trace element (Cu levels)",
       "standard_trait_name": "Copper"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 151344741
-      },
-      "rsid": "rs2769264",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 151372265
-      }
     }
   },
   {
@@ -3225,21 +2550,6 @@
       ],
       "reported_trait_name": "HDL cholesterol (AA)",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 80340622
-      },
-      "rsid": "rs2366858",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 80711306
-      }
     }
   },
   {
@@ -3294,21 +2604,6 @@
       ],
       "reported_trait_name": "Dimethlyglycine",
       "standard_trait_name": "Dimethlyglycine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 78330227
-      },
-      "rsid": "rs248386",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 79034404
-      }
     }
   },
   {
@@ -3363,21 +2658,6 @@
       ],
       "reported_trait_name": "Asparagine",
       "standard_trait_name": "L-Asparagine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 178361051
-      },
-      "rsid": "rs4690522",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 177439897
-      }
     }
   },
   {
@@ -3432,21 +2712,6 @@
       ],
       "reported_trait_name": "Orotic acid",
       "standard_trait_name": "Orotic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 124451064
-      },
-      "rsid": "rs9844948",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 124732217
-      }
     }
   },
   {
@@ -3501,21 +2766,6 @@
       ],
       "reported_trait_name": "Thyroxine",
       "standard_trait_name": "Thyroxine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "X",
-        "position": 105276609
-      },
-      "rsid": "rs7883218",
-      "locus_GRCh38": {
-        "chromosome": "X",
-        "position": 106032618
-      }
     }
   },
   {
@@ -3571,21 +2821,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 11856378
-      },
-      "rsid": "rs1801133",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 11796321
-      }
     }
   },
   {
@@ -3641,21 +2876,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 45978675
-      },
-      "rsid": "rs4660306",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 45513003
-      }
     }
   },
   {
@@ -3711,21 +2931,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 237048676
-      },
-      "rsid": "rs2275565",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 236885376
-      }
     }
   },
   {
@@ -3781,21 +2986,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 49382193
-      },
-      "rsid": "rs9369898",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 49414480
-      }
     }
   },
   {
@@ -3851,21 +3041,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 89148372
-      },
-      "rsid": "rs7130284",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 89415204
-      }
     }
   },
   {
@@ -3921,21 +3096,6 @@
       ],
       "reported_trait_name": "Homocysteine levels",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 89708096
-      },
-      "rsid": "rs154657",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 89641688
-      }
     }
   },
   {
@@ -3991,21 +3151,6 @@
       ],
       "reported_trait_name": "Homoarginine levels",
       "standard_trait_name": "Homo-L-arginine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 45652703
-      },
-      "rsid": "rs1153858",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 45360505
-      }
     }
   },
   {
@@ -4061,21 +3206,6 @@
       ],
       "reported_trait_name": "Hormone measurements (Oestradiol)",
       "standard_trait_name": "Estradiol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 51524292
-      },
-      "rsid": "rs2414095",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 51232095
-      }
     }
   },
   {
@@ -4131,21 +3261,6 @@
       ],
       "reported_trait_name": "Calcium levels",
       "standard_trait_name": "Calcium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 234264848
-      },
-      "rsid": "rs1550532",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 233356202
-      }
     }
   },
   {
@@ -4201,21 +3316,6 @@
       ],
       "reported_trait_name": "Calcium levels",
       "standard_trait_name": "Calcium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 122003757
-      },
-      "rsid": "rs1801725",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 122284910
-      }
     }
   },
   {
@@ -4271,21 +3371,6 @@
       ],
       "reported_trait_name": "Calcium levels",
       "standard_trait_name": "Calcium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 65271197
-      },
-      "rsid": "rs17711722",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 65806210
-      }
     }
   },
   {
@@ -4341,21 +3426,6 @@
       ],
       "reported_trait_name": "Calcium levels",
       "standard_trait_name": "Calcium"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 52774427
-      },
-      "rsid": "rs1570669",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 54157888
-      }
     }
   },
   {
@@ -4414,21 +3484,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 234853406
-      },
-      "rsid": "rs558971",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 234717659
-      }
     }
   },
   {
@@ -4484,21 +3539,6 @@
       ],
       "reported_trait_name": "Cholesterol, total",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 169830155
-      },
-      "rsid": "rs2287623",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 168973645
-      }
     }
   },
   {
@@ -4557,21 +3597,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 12267648
-      },
-      "rsid": "rs7616006",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 12226148
-      }
     }
   },
   {
@@ -4630,21 +3655,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 161010118
-      },
-      "rsid": "rs10455872",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 160589086
-      }
     }
   },
   {
@@ -4710,21 +3720,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 59393273
-      },
-      "rsid": "rs4738684",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 58480714
-      }
     }
   },
   {
@@ -4783,21 +3778,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 2640759
-      },
-      "rsid": "rs3780181",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 2640759
-      }
     }
   },
   {
@@ -4856,21 +3836,6 @@
       ],
       "reported_trait_name": "Total Cholesterol",
       "standard_trait_name": "Cholesterol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 46627603
-      },
-      "rsid": "rs4253772",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 46231706
-      }
     }
   },
   {
@@ -4929,21 +3894,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 156700651
-      },
-      "rsid": "rs12145743",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 156730859
-      }
     }
   },
   {
@@ -5002,21 +3952,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 230295691
-      },
-      "rsid": "rs4846914",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 230159944
-      }
     }
   },
   {
@@ -5075,21 +4010,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 144303418
-      },
-      "rsid": "rs10087900",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 143221248
-      }
     }
   },
   {
@@ -5148,21 +4068,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 107664301
-      },
-      "rsid": "rs1883025",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 104902020
-      }
     }
   },
   {
@@ -5221,21 +4126,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 47333685
-      },
-      "rsid": "rs3847502",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 47312134
-      }
     }
   },
   {
@@ -5294,21 +4184,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 75455021
-      },
-      "rsid": "rs499974",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 75743976
-      }
     }
   },
   {
@@ -5367,21 +4242,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 109950144
-      },
-      "rsid": "rs2241210",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 109512339
-      }
     }
   },
   {
@@ -5440,21 +4300,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 125259888
-      },
-      "rsid": "rs838876",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 124775342
-      }
     }
   },
   {
@@ -5513,21 +4358,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "14",
-        "position": 105277209
-      },
-      "rsid": "rs4983559",
-      "locus_GRCh38": {
-        "chromosome": "14",
-        "position": 104810872
-      }
     }
   },
   {
@@ -5583,21 +4413,6 @@
       ],
       "reported_trait_name": "HDL cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 58683366
-      },
-      "rsid": "rs1532085",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 58391167
-      }
     }
   },
   {
@@ -5656,21 +4471,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 56989590
-      },
-      "rsid": "rs247616",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 56955678
-      }
     }
   },
   {
@@ -5726,21 +4526,6 @@
       ],
       "reported_trait_name": "HDL cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 67928042
-      },
-      "rsid": "rs16942887",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 67894139
-      }
     }
   },
   {
@@ -5799,21 +4584,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "GT",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 37821435
-      },
-      "rsid": "rs113612868",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 39665182
-      }
     }
   },
   {
@@ -5872,21 +4642,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "18",
-        "position": 47167214
-      },
-      "rsid": "rs4939883",
-      "locus_GRCh38": {
-        "chromosome": "18",
-        "position": 49640844
-      }
     }
   },
   {
@@ -5945,21 +4700,6 @@
       ],
       "reported_trait_name": "HDL Cholesterol",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 43042364
-      },
-      "rsid": "rs1800961",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 44413724
-      }
     }
   },
   {
@@ -6018,21 +4758,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 25768937
-      },
-      "rsid": "rs10903129",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 25442446
-      }
     }
   },
   {
@@ -6091,21 +4816,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 55505647
-      },
-      "rsid": "rs11591147",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 55039974
-      }
     }
   },
   {
@@ -6164,21 +4874,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 109818530
-      },
-      "rsid": "rs646776",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 109275908
-      }
     }
   },
   {
@@ -6237,21 +4932,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 21263900
-      },
-      "rsid": "rs1367117",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 21041028
-      }
     }
   },
   {
@@ -6310,21 +4990,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 118835841
-      },
-      "rsid": "rs10490626",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 118078265
-      }
     }
   },
   {
@@ -6383,21 +5048,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 74656539
-      },
-      "rsid": "rs12916",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 75360714
-      }
     }
   },
   {
@@ -6456,21 +5106,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 16127407
-      },
-      "rsid": "rs3757354",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 16127176
-      }
     }
   },
   {
@@ -6529,21 +5164,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 44582331
-      },
-      "rsid": "rs2073547",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 44542732
-      }
     }
   },
   {
@@ -6599,21 +5219,6 @@
       ],
       "reported_trait_name": "LDL cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 72108093
-      },
-      "rsid": "rs2000999",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 72074194
-      }
     }
   },
   {
@@ -6672,21 +5277,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 64210580
-      },
-      "rsid": "rs1801689",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 66214462
-      }
     }
   },
   {
@@ -6745,21 +5335,6 @@
       ],
       "reported_trait_name": "LDL Cholesterol",
       "standard_trait_name": "low density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 11202306
-      },
-      "rsid": "rs6511720",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 11091630
-      }
     }
   },
   {
@@ -6815,21 +5390,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 63133930
-      },
-      "rsid": "rs4587594",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 62668259
-      }
     }
   },
   {
@@ -6885,21 +5445,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 3473139
-      },
-      "rsid": "rs6831256",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 3471412
-      }
     }
   },
   {
@@ -6955,21 +5500,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 116358044
-      },
-      "rsid": "rs38855",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 116717990
-      }
     }
   },
   {
@@ -7025,21 +5555,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 19844222
-      },
-      "rsid": "rs12678919",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 19986711
-      }
     }
   },
   {
@@ -7095,21 +5610,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 126482621
-      },
-      "rsid": "rs2954022",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 125470379
-      }
     }
   },
   {
@@ -7165,21 +5665,6 @@
       ],
       "reported_trait_name": "Serum dimethylarginine levels (asymmetric)",
       "standard_trait_name": "Asymmetric dimethylarginine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 85797110
-      },
-      "rsid": "rs28489187",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 85331427
-      }
     }
   },
   {
@@ -7234,21 +5719,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 8429323
-      },
-      "rsid": "rs116843064",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 8364439
-      }
     }
   },
   {
@@ -7305,21 +5775,6 @@
       ],
       "reported_trait_name": "Response to serotonin reuptake inhibitors in major depressive disorder (plasma drug and metabolite levels) (S-DCT/S-CT ratio)",
       "standard_trait_name": "Desmethylcitalopram / Citalopram"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 96681846
-      },
-      "rsid": "rs1074145",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 94922089
-      }
     }
   },
   {
@@ -7375,21 +5830,6 @@
       ],
       "reported_trait_name": "Response to serotonin reuptake inhibitors in major depressive disorder (plasma drug and metabolite levels) (S-DDCT concentration)",
       "standard_trait_name": "Didemethylcitalopram"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 42526694
-      },
-      "rsid": "rs1065852",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 42130692
-      }
     }
   },
   {
@@ -7446,21 +5886,6 @@
       ],
       "reported_trait_name": "Urinary metabolites (H-NMR features) (5.2125, Fucose)",
       "standard_trait_name": "L-Fucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 49228272
-      },
-      "rsid": "rs2287921",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 48725015
-      }
     }
   },
   {
@@ -7517,21 +5942,6 @@
       ],
       "reported_trait_name": "Urinary metabolites (H-NMR features) (1.7325, Lysine)",
       "standard_trait_name": "L-Lysine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 33364628
-      },
-      "rsid": "rs8101881",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 32873722
-      }
     }
   },
   {
@@ -7587,21 +5997,6 @@
       ],
       "reported_trait_name": "Serum metabolite levels (N-acetylphenylalanine)",
       "standard_trait_name": "N-Acetyl-L-phenylalanine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 67421341
-      },
-      "rsid": "rs12288023",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 67653870
-      }
     }
   },
   {
@@ -7657,21 +6052,6 @@
       ],
       "reported_trait_name": "Serum metabolite levels (Trehalose)",
       "standard_trait_name": "Trehalose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 118549582
-      },
-      "rsid": "rs507080",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 118678873
-      }
     }
   },
   {
@@ -7728,21 +6108,6 @@
       ],
       "reported_trait_name": "Plasma homocysteine levels (post-methionine load test)",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 125906179
-      },
-      "rsid": "rs10934753",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 126187336
-      }
     }
   },
   {
@@ -7799,21 +6164,6 @@
       ],
       "reported_trait_name": "Plasma homocysteine levels (post-methionine load test)",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 42925803
-      },
-      "rsid": "rs9296404",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 42958065
-      }
     }
   },
   {
@@ -7870,21 +6220,6 @@
       ],
       "reported_trait_name": "Plasma homocysteine levels (post-methionine load test)",
       "standard_trait_name": "Homocysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "21",
-        "position": 44488033
-      },
-      "rsid": "rs234714",
-      "locus_GRCh38": {
-        "chromosome": "21",
-        "position": 43067923
-      }
     }
   },
   {
@@ -7940,21 +6275,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-04499--3,4-dihydroxybutyrate)",
       "standard_trait_name": "(S)-3,4-Dihydroxybutyric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 67360725
-      },
-      "rsid": "rs1030420",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 66448490
-      }
     }
   },
   {
@@ -8010,21 +6330,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (X-12038/bradykinin, des-arg(9))",
       "standard_trait_name": "/ Bradykinin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 176842474
-      },
-      "rsid": "rs2731672",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 177415473
-      }
     }
   },
   {
@@ -8080,21 +6385,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (1-methylxanthine)",
       "standard_trait_name": "1-methylxanthine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 18272438
-      },
-      "rsid": "rs4921914",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 18414928
-      }
     }
   },
   {
@@ -8157,21 +6447,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-12441--12-hydroxyeicosatetraenoate (12-HETE))",
       "standard_trait_name": "12-HETE"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 6915401
-      },
-      "rsid": "rs2271316",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 7012082
-      }
     }
   },
   {
@@ -8227,21 +6502,6 @@
       ],
       "reported_trait_name": "1-arachidonoylglycerophosphocholine - M33228",
       "standard_trait_name": "2-Arachidonoylglycerophosphocholine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 17422768
-      },
-      "rsid": "rs748196",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 17519454
-      }
     }
   },
   {
@@ -8297,21 +6557,6 @@
       ],
       "reported_trait_name": "alpha-hydroxyisovalerate - M33937",
       "standard_trait_name": "2-Hydroxy-3-methylbutyric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 119952776
-      },
-      "rsid": "rs12141041",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 119410153
-      }
     }
   },
   {
@@ -8367,21 +6612,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (alpha-hydroxyisovalerate)",
       "standard_trait_name": "2-Hydroxy-3-methylbutyric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 18325146
-      },
-      "rsid": "rs2403254",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 18303599
-      }
     }
   },
   {
@@ -8437,21 +6667,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-12100--hydroxytryptophan)",
       "standard_trait_name": "5-Hydroxy-L-tryptophan"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 39823145
-      },
-      "rsid": "rs2160860",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 39965626
-      }
     }
   },
   {
@@ -8507,21 +6722,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-11445--5-alpha-pregnan-3beta,20alpha-disulfate)",
       "standard_trait_name": "5alpha-pregnan-3beta,20alpha-diol disulfate"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 35968000
-      },
-      "rsid": "rs10491431",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 35967898
-      }
     }
   },
   {
@@ -8577,21 +6777,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-13435, a 10:1 acylcarnitine)",
       "standard_trait_name": "9-Decenoylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 4146198
-      },
-      "rsid": "rs9392556",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 4145964
-      }
     }
   },
   {
@@ -8647,21 +6832,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-12244--N-acetylcarnosine)",
       "standard_trait_name": "Acetylcarnosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 30753573
-      },
-      "rsid": "rs6804368",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 30712081
-      }
     }
   },
   {
@@ -8718,21 +6888,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (androsterone sulfate/epiandrosterone sulfate)",
       "standard_trait_name": "Androsterone sulfate / Epiandrosterone Sulfate"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 5256272
-      },
-      "rsid": "rs17134585",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 5214309
-      }
     }
   },
   {
@@ -8789,21 +6944,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (arachidonate (20:4n6)/dihomo-linolenate (20:3n3 or n6))",
       "standard_trait_name": "Arachidonate / 8,11,14-Eicosatrienoic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 61571348
-      },
-      "rsid": "rs174548",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 61803876
-      }
     }
   },
   {
@@ -8860,21 +7000,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (arachidonate (20:4n6)/1-arachidonoylglycerophosphoinositol)",
       "standard_trait_name": "Arachidonate|1-Arachidonoylglycerophosphoinositol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 54676433
-      },
-      "rsid": "rs2576452",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 54172738
-      }
     }
   },
   {
@@ -8930,21 +7055,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (aspartylphenylalanine/X-14450--phenylalanylleucine)",
       "standard_trait_name": "Aspartylphenylalanine / "
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 61566031
-      },
-      "rsid": "rs4343",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 63488670
-      }
     }
   },
   {
@@ -9007,21 +7117,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (betaine)",
       "standard_trait_name": "Betaine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 78346769
-      },
-      "rsid": "rs16876394",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 79050946
-      }
     }
   },
   {
@@ -9077,21 +7172,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (betaine)",
       "standard_trait_name": "Betaine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 320920
-      },
-      "rsid": "rs499368",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 211754
-      }
     }
   },
   {
@@ -9147,21 +7227,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (bradykinin, des-arg(9))",
       "standard_trait_name": "Bradykinin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 186454180
-      },
-      "rsid": "rs5030062",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 186736391
-      }
     }
   },
   {
@@ -9217,21 +7282,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (bradykinin, des-arg(9))",
       "standard_trait_name": "Bradykinin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 187174683
-      },
-      "rsid": "rs4253311",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 186253529
-      }
     }
   },
   {
@@ -9287,21 +7337,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (butyrylcarnitine)",
       "standard_trait_name": "Butyrylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 121160615
-      },
-      "rsid": "rs2066938",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 120722812
-      }
     }
   },
   {
@@ -9357,21 +7392,6 @@
       ],
       "reported_trait_name": "HWESASXX - M32836",
       "standard_trait_name": "C3f, complement C3 derived peptide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 196682346
-      },
-      "rsid": "rs7535263",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 196713216
-      }
     }
   },
   {
@@ -9434,21 +7454,6 @@
       ],
       "reported_trait_name": "HWESASXX - M32836",
       "standard_trait_name": "C3f, complement C3 derived peptide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 90345335
-      },
-      "rsid": "rs2007084",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 89802104
-      }
     }
   },
   {
@@ -9504,21 +7509,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (citrulline)",
       "standard_trait_name": "Citrulline"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 97395962
-      },
-      "rsid": "rs56322409",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 95636205
-      }
     }
   },
   {
@@ -9574,21 +7564,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (X-11444/X-12844) (X-11444 is tentatively identified by Metabolon as urocortisol glucuronide or cortolone glucuronide and X-12844 is tentatively identified as tetrahydrocortisone glucuronide)",
       "standard_trait_name": "cortolone glucuronide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 31810974
-      },
-      "rsid": "rs559555",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 31585905
-      }
     }
   },
   {
@@ -9644,21 +7619,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (cysteine-glutathione disulfide)",
       "standard_trait_name": "Cysteineglutathione disulfide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 25002081
-      },
-      "rsid": "rs2330809",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 24606114
-      }
     }
   },
   {
@@ -9714,21 +7674,6 @@
       ],
       "reported_trait_name": "decanoylcarnitine - M33941",
       "standard_trait_name": "Decanoylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 159630817
-      },
-      "rsid": "rs8396",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 158709665
-      }
     }
   },
   {
@@ -9784,21 +7729,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (erythritol)",
       "standard_trait_name": "erythritol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 46990681
-      },
-      "rsid": "rs7542172",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 46525009
-      }
     }
   },
   {
@@ -9854,21 +7784,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (10-undecenoate (11:1n1)/X-11438)",
       "standard_trait_name": "Ethyl 10-undecenoate / "
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 50477138
-      },
-      "rsid": "rs1365505",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 50184941
-      }
     }
   },
   {
@@ -9924,21 +7839,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (ADSGEGDFXAEGGGVR/ADpSGEGDFXAEGGGVR)",
       "standard_trait_name": "Fibrinopeptide A"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 136154304
-      },
-      "rsid": "rs649129",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 133278860
-      }
     }
   },
   {
@@ -9994,21 +7894,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (glutaroyl carnitine)",
       "standard_trait_name": "Glutarylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 53695882
-      },
-      "rsid": "rs13375749",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 53230210
-      }
     }
   },
   {
@@ -10064,21 +7949,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (glutaroyl carnitine)",
       "standard_trait_name": "Glutarylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 13010520
-      },
-      "rsid": "rs8012",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 12899706
-      }
     }
   },
   {
@@ -10134,21 +8004,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (hydroxyisovaleroyl carnitine)",
       "standard_trait_name": "hydroxyisovaleroyl carnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 182755209
-      },
-      "rsid": "rs2270968",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 183037421
-      }
     }
   },
   {
@@ -10204,21 +8059,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (hypoxanthine)",
       "standard_trait_name": "Hypoxanthine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 16288192
-      },
-      "rsid": "rs6459467",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 16287961
-      }
     }
   },
   {
@@ -10274,21 +8114,6 @@
       ],
       "reported_trait_name": "indoleacetate - M27513",
       "standard_trait_name": "Indoleacetic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 50610379
-      },
-      "rsid": "rs7809234",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 50542681
-      }
     }
   },
   {
@@ -10344,21 +8169,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (indolelactate)",
       "standard_trait_name": "Indolelactic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 131572027
-      },
-      "rsid": "rs15676",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 128809748
-      }
     }
   },
   {
@@ -10414,21 +8224,6 @@
       ],
       "reported_trait_name": "isobutyrylcarnitine - M33441",
       "standard_trait_name": "isobutyrylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 160564476
-      },
-      "rsid": "rs662138",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 160143444
-      }
     }
   },
   {
@@ -10484,21 +8279,6 @@
       ],
       "reported_trait_name": "isobutyrylcarnitine - M33441",
       "standard_trait_name": "isobutyrylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 77030792
-      },
-      "rsid": "rs2404602",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 76738451
-      }
     }
   },
   {
@@ -10554,21 +8334,6 @@
       ],
       "reported_trait_name": "4-methyl-2-oxopentanoate - M22116",
       "standard_trait_name": "Ketoleucine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "13",
-        "position": 48459901
-      },
-      "rsid": "rs4941615",
-      "locus_GRCh38": {
-        "chromosome": "13",
-        "position": 47885766
-      }
     }
   },
   {
@@ -10625,21 +8390,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (acetylcarnitine/hexanoylcarnitine)",
       "standard_trait_name": "L-Acetylcarnitine|Hexanoylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 76161889
-      },
-      "rsid": "rs4949874",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 75696204
-      }
     }
   },
   {
@@ -10695,21 +8445,6 @@
       ],
       "reported_trait_name": "asparagine - M34283",
       "standard_trait_name": "L-Asparagine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "11",
-        "position": 62176943
-      },
-      "rsid": "rs3017098",
-      "locus_GRCh38": {
-        "chromosome": "11",
-        "position": 62409471
-      }
     }
   },
   {
@@ -10765,21 +8500,6 @@
       ],
       "reported_trait_name": "asparagine - M34283",
       "standard_trait_name": "L-Asparagine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "14",
-        "position": 104608068
-      },
-      "rsid": "rs2011069",
-      "locus_GRCh38": {
-        "chromosome": "14",
-        "position": 104141731
-      }
     }
   },
   {
@@ -10835,21 +8555,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (kynurenine)",
       "standard_trait_name": "L-Kynurenine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 87878822
-      },
-      "rsid": "rs8051149",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 87845216
-      }
     }
   },
   {
@@ -10905,21 +8610,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (serine)",
       "standard_trait_name": "L-Serine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 120209755
-      },
-      "rsid": "rs1163251",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 119667132
-      }
     }
   },
   {
@@ -10975,21 +8665,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (tryptophan)",
       "standard_trait_name": "L-Tryptophan"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 156808288
-      },
-      "rsid": "rs13122250",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 155887136
-      }
     }
   },
   {
@@ -11046,21 +8721,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (valine/isovalerylcarnitine)",
       "standard_trait_name": "L-Valine / Isovalerylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 131665378
-      },
-      "rsid": "rs272889",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 132329685
-      }
     }
   },
   {
@@ -11117,21 +8777,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (linoleate (18:2n6)/X-12442--5,8-tetradecadienoate)",
       "standard_trait_name": "Linoleic acid / 5,8-Tetradecadienoic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 151930645
-      },
-      "rsid": "rs6693388",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 151958169
-      }
     }
   },
   {
@@ -11187,21 +8832,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-11786--methylcysteine)",
       "standard_trait_name": "Methylcysteine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 171080615
-      },
-      "rsid": "rs7061710",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 171111474
-      }
     }
   },
   {
@@ -11257,21 +8887,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (myo-inositol)",
       "standard_trait_name": "myo-Inositol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 18618867
-      },
-      "rsid": "rs4808136",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 18508057
-      }
     }
   },
   {
@@ -11328,21 +8943,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (myristate (14:0)/myristoleate (14:1n5))",
       "standard_trait_name": "Myristic acid / Myristoleic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 102075479
-      },
-      "rsid": "rs603424",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 100315722
-      }
     }
   },
   {
@@ -11398,21 +8998,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-03056--N-[3-(2-Oxopyrrolidin-1-yl)propyl]acetamide)",
       "standard_trait_name": "N-(3-acetamidopropyl)pyrrolidin-2-one"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 150543721
-      },
-      "rsid": "rs1005390",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 150846633
-      }
     }
   },
   {
@@ -11475,21 +9060,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-03056--N-[3-(2-Oxopyrrolidin-1-yl)propyl]acetamide)",
       "standard_trait_name": "N-(3-acetamidopropyl)pyrrolidin-2-one"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 135197336
-      },
-      "rsid": "rs11101730",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 133383832
-      }
     }
   },
   {
@@ -11546,21 +9116,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (N-acetylornithine/myo-inositol)",
       "standard_trait_name": "N-Acetylornithine / myo-Inositol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 73868328
-      },
-      "rsid": "rs13538",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 73641201
-      }
     }
   },
   {
@@ -11623,21 +9178,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-12095--N1-methyl-3-pyridone-4-carboxamide)",
       "standard_trait_name": "N1-Methyl-4-pyridone-3-carboxamide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 135631400
-      },
-      "rsid": "rs6430553",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 134873830
-      }
     }
   },
   {
@@ -11693,21 +9233,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-13431--nonanoylcarnitine)",
       "standard_trait_name": "Nonanoylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 210874246
-      },
-      "rsid": "rs3738934",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 210009522
-      }
     }
   },
   {
@@ -11763,21 +9288,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-11593--O-methylascorbate)",
       "standard_trait_name": "O-methylascorbate"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 19951271
-      },
-      "rsid": "rs4680",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 19963748
-      }
     }
   },
   {
@@ -11833,21 +9343,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (X-11423--O-sulfo-L-tyrosine)",
       "standard_trait_name": "O-Sulfotyrosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 51063477
-      },
-      "rsid": "rs6151429",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 50625049
-      }
     }
   },
   {
@@ -11903,21 +9398,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (pantothenate)",
       "standard_trait_name": "Pantothenic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 27424636
-      },
-      "rsid": "rs1395",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 27201768
-      }
     }
   },
   {
@@ -11974,21 +9454,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (phenyllactate (PLA)/phenylalanine)",
       "standard_trait_name": "Phenyllactic acid / L-Phenylalanine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 58829790
-      },
-      "rsid": "rs12709013",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 58795886
-      }
     }
   },
   {
@@ -12045,21 +9510,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (phosphate/erythronate)",
       "standard_trait_name": "Phosphate / Erythronic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 53282188
-      },
-      "rsid": "rs4687717",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 53248172
-      }
     }
   },
   {
@@ -12116,21 +9566,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (propionylcarnitine/isovalerylcarnitine)",
       "standard_trait_name": "Propionylcarnitine / Isovalerylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "15",
-        "position": 40703211
-      },
-      "rsid": "rs9635324",
-      "locus_GRCh38": {
-        "chromosome": "15",
-        "position": 40411012
-      }
     }
   },
   {
@@ -12186,21 +9621,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (5-oxoproline)",
       "standard_trait_name": "Pyroglutamic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 145155408
-      },
-      "rsid": "rs12550729",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 144100505
-      }
     }
   },
   {
@@ -12256,21 +9676,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (X-11440/4-androsten-3beta,17beta-diol disulfate 2)",
       "standard_trait_name": "similar to 5-Androstenediol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 48385057
-      },
-      "rsid": "rs2547231",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 47881800
-      }
     }
   },
   {
@@ -12326,21 +9731,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (succinylcarnitine)",
       "standard_trait_name": "Succinylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 67416322
-      },
-      "rsid": "rs17806888",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 67365898
-      }
     }
   },
   {
@@ -12397,21 +9787,6 @@
       ],
       "reported_trait_name": "Blood metabolite ratios (10-undecenoate (11:1n1)/X-11438)",
       "standard_trait_name": "Undecylenic acid / 11-Hydroxy-9-tridecenoic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 47331966
-      },
-      "rsid": "rs6678639",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 46866294
-      }
     }
   },
   {
@@ -12467,21 +9842,6 @@
       ],
       "reported_trait_name": "uridine - M00606",
       "standard_trait_name": "Uridine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 20915172
-      },
-      "rsid": "rs532545",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 20588679
-      }
     }
   },
   {
@@ -12537,21 +9897,6 @@
       ],
       "reported_trait_name": "uridine - M00606",
       "standard_trait_name": "Uridine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 48102911
-      },
-      "rsid": "rs2686796",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 48063314
-      }
     }
   },
   {
@@ -12607,21 +9952,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (uridine)",
       "standard_trait_name": "Uridine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 50971752
-      },
-      "rsid": "rs131794",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 50533323
-      }
     }
   },
   {
@@ -12678,21 +10008,6 @@
       ],
       "reported_trait_name": "Vitamin B levels in ischemic stroke (Vitamin B12)",
       "standard_trait_name": "Cobalamin"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 17156151
-      },
-      "rsid": "rs1801222",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 17114152
-      }
     }
   },
   {
@@ -12748,21 +10063,6 @@
       ],
       "reported_trait_name": "Fasting plasma glucose (East Asian)",
       "standard_trait_name": "D-Glucose"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 22581268
-      },
-      "rsid": "rs6048216",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 22600630
-      }
     }
   },
   {
@@ -12818,21 +10118,6 @@
       ],
       "reported_trait_name": "L-arginine levels",
       "standard_trait_name": "L-Arginine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 131924689
-      },
-      "rsid": "rs2248551",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 131603549
-      }
     }
   },
   {
@@ -12892,21 +10177,6 @@
       ],
       "reported_trait_name": "Cotinine glucuronidation",
       "standard_trait_name": "Cotinine glucuronide"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 69673553
-      },
-      "rsid": "rs34100980",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 68807835
-      }
     }
   },
   {
@@ -12962,21 +10232,6 @@
       ],
       "reported_trait_name": "Iron|serum",
       "standard_trait_name": "Iron"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 133477701
-      },
-      "rsid": "rs8177240",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 133758857
-      }
     }
   },
   {
@@ -13032,21 +10287,6 @@
       ],
       "reported_trait_name": "Iron|serum",
       "standard_trait_name": "Iron"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 26093141
-      },
-      "rsid": "rs1800562",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 26092913
-      }
     }
   },
   {
@@ -13102,21 +10342,6 @@
       ],
       "reported_trait_name": "Iron status biomarkers (iron levels)",
       "standard_trait_name": "Iron"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 100235970
-      },
-      "rsid": "rs7385804",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 100638347
-      }
     }
   },
   {
@@ -13172,21 +10397,6 @@
       ],
       "reported_trait_name": "Iron status biomarkers (iron levels)",
       "standard_trait_name": "Iron"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 37462936
-      },
-      "rsid": "rs855791",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 37066896
-      }
     }
   },
   {
@@ -13242,21 +10452,6 @@
       ],
       "reported_trait_name": "FA 20:0|plasma",
       "standard_trait_name": "Arachidic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 8281635
-      },
-      "rsid": "rs2100944",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 8216751
-      }
     }
   },
   {
@@ -13312,21 +10507,6 @@
       ],
       "reported_trait_name": "Red blood cell fatty acid levels (OA)",
       "standard_trait_name": "Oleic Acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 7075882
-      },
-      "rsid": "rs2110073",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 6966719
-      }
     }
   },
   {
@@ -13382,21 +10562,6 @@
       ],
       "reported_trait_name": "Lead levels in blood",
       "standard_trait_name": "Lead"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 116151191
-      },
-      "rsid": "rs1805313",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 113388911
-      }
     }
   },
   {
@@ -13452,21 +10617,6 @@
       ],
       "reported_trait_name": "Manganese|plasma",
       "standard_trait_name": "Manganese"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 220080028
-      },
-      "rsid": "rs1776029",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 219906686
-      }
     }
   },
   {
@@ -13522,21 +10672,6 @@
       ],
       "reported_trait_name": "Sphingolipid levels (Hydroxysphingomyeline C24:1)",
       "standard_trait_name": "Hydroxysphingomyeline C24:1"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 12959398
-      },
-      "rsid": "rs4814176",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 12978750
-      }
     }
   },
   {
@@ -13592,21 +10727,6 @@
       ],
       "reported_trait_name": "C0",
       "standard_trait_name": "L-Carnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "10",
-        "position": 61469538
-      },
-      "rsid": "rs1171614",
-      "locus_GRCh38": {
-        "chromosome": "10",
-        "position": 59709780
-      }
     }
   },
   {
@@ -13662,21 +10782,6 @@
       ],
       "reported_trait_name": "Blood metabolite levels (proline)",
       "standard_trait_name": "L-Proline"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 18959684
-      },
-      "rsid": "rs2540641",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 18972171
-      }
     }
   },
   {
@@ -13732,21 +10837,6 @@
       ],
       "reported_trait_name": "Ser",
       "standard_trait_name": "L-Serine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 56079094
-      },
-      "rsid": "rs4947534",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 56011401
-      }
     }
   },
   {
@@ -13802,21 +10892,6 @@
       ],
       "reported_trait_name": "lysoPC a C16:0",
       "standard_trait_name": "LysoPC(16:0)"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 40403370
-      },
-      "rsid": "rs7529794",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 39937698
-      }
     }
   },
   {
@@ -13872,21 +10947,6 @@
       ],
       "reported_trait_name": "PC ae C44:5",
       "standard_trait_name": "PC(o-22:2(13Z,16Z)/22:3(10Z,13Z,16Z))"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 178370631
-      },
-      "rsid": "rs7582179",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 177505903
-      }
     }
   },
   {
@@ -13942,21 +11002,6 @@
       ],
       "reported_trait_name": "PC ae C44:5",
       "standard_trait_name": "PC(o-22:2(13Z,16Z)/22:3(10Z,13Z,16Z))"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 185773811
-      },
-      "rsid": "rs7700133",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 184852657
-      }
     }
   },
   {
@@ -14012,21 +11057,6 @@
       ],
       "reported_trait_name": "PC aa C32:2",
       "standard_trait_name": "Phosphatidyl choline PC(14:0/18:2(9Z,12Z)) is a specific example  "
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "18",
-        "position": 19263128
-      },
-      "rsid": "rs7343008",
-      "locus_GRCh38": {
-        "chromosome": "18",
-        "position": 21683167
-      }
     }
   },
   {
@@ -14089,21 +11119,6 @@
       ],
       "reported_trait_name": "3-aminoisobutyrate|urine",
       "standard_trait_name": "3-Aminoisobutanoic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 35037115
-      },
-      "rsid": "rs37369",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 35037010
-      }
     }
   },
   {
@@ -14159,21 +11174,6 @@
       ],
       "reported_trait_name": "alpha-ketoisovalerate|urine",
       "standard_trait_name": "alpha-Ketoisovaleric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 241837452
-      },
-      "rsid": "rs6748734",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 240898035
-      }
     }
   },
   {
@@ -14230,21 +11230,6 @@
       ],
       "reported_trait_name": "N,N-dimethylglycine/alanine|urine",
       "standard_trait_name": "Dimethylglycine / L-Alanine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "G"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 45814094
-      },
-      "rsid": "rs17279437",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 45772602
-      }
     }
   },
   {
@@ -14300,21 +11285,6 @@
       ],
       "reported_trait_name": "ethanolamine|urine",
       "standard_trait_name": "Ethanolamine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 109705967
-      },
-      "rsid": "rs56043887",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 108784811
-      }
     }
   },
   {
@@ -14371,21 +11341,6 @@
       ],
       "reported_trait_name": "glycine/citrate|urine",
       "standard_trait_name": "Glycine / Citric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 150698806
-      },
-      "rsid": "rs3846710",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 151319245
-      }
     }
   },
   {
@@ -14441,21 +11396,6 @@
       ],
       "reported_trait_name": "glycolate|urine",
       "standard_trait_name": "Glycolic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "3",
-        "position": 38395562
-      },
-      "rsid": "rs3132440",
-      "locus_GRCh38": {
-        "chromosome": "3",
-        "position": 38354071
-      }
     }
   },
   {
@@ -14518,21 +11458,6 @@
       ],
       "reported_trait_name": "tyrosine|urine",
       "standard_trait_name": "L-Tyrosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "5",
-        "position": 1183560
-      },
-      "rsid": "rs11750211",
-      "locus_GRCh38": {
-        "chromosome": "5",
-        "position": 1183445
-      }
     }
   },
   {
@@ -14588,21 +11513,6 @@
       ],
       "reported_trait_name": "myo-inositol|urine",
       "standard_trait_name": "myo-Inositol"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 25002600
-      },
-      "rsid": "rs17702912",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 24991279
-      }
     }
   },
   {
@@ -14659,21 +11569,6 @@
       ],
       "reported_trait_name": "sucinate/citrate|urine",
       "standard_trait_name": "Succinic acid / Citric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 45261041
-      },
-      "rsid": "rs941206",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 46632402
-      }
     }
   },
   {
@@ -14729,21 +11624,6 @@
       ],
       "reported_trait_name": "total acylcarnitine",
       "standard_trait_name": "acylcarnitine measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 110760008
-      },
-      "rsid": "rs12210538",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 110438805
-      }
     }
   },
   {
@@ -14800,21 +11680,6 @@
       ],
       "reported_trait_name": "metabolite ratio (Ala/Asp)",
       "standard_trait_name": "L-Alanine / L-Asparagine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "8",
-        "position": 145701453
-      },
-      "rsid": "rs750472",
-      "locus_GRCh38": {
-        "chromosome": "8",
-        "position": 144476070
-      }
     }
   },
   {
@@ -14870,21 +11735,6 @@
       ],
       "reported_trait_name": "Methylmalonylcarnitine",
       "standard_trait_name": "Methylmalonylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 131865027
-      },
-      "rsid": "rs746872",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 129102748
-      }
     }
   },
   {
@@ -14940,21 +11790,6 @@
       ],
       "reported_trait_name": "2-Hydroxyisovalerylcarnitine",
       "standard_trait_name": "Similar to 3-Hydroxyisovalerylcarnitine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "21",
-        "position": 38336834
-      },
-      "rsid": "rs1571700",
-      "locus_GRCh38": {
-        "chromosome": "21",
-        "position": 36964534
-      }
     }
   },
   {
@@ -15010,21 +11845,6 @@
       ],
       "reported_trait_name": "Nicotine Metabolite Ratio",
       "standard_trait_name": "ratio of Hydroxycotinine to Cotinine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "19",
-        "position": 41353107
-      },
-      "rsid": "rs56113850",
-      "locus_GRCh38": {
-        "chromosome": "19",
-        "position": 40847202
-      }
     }
   },
   {
@@ -15080,21 +11900,6 @@
       ],
       "reported_trait_name": "Citrate",
       "standard_trait_name": "Citric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "17",
-        "position": 6595398
-      },
-      "rsid": "rs172642",
-      "locus_GRCh38": {
-        "chromosome": "17",
-        "position": 6692079
-      }
     }
   },
   {
@@ -15150,21 +11955,6 @@
       ],
       "reported_trait_name": "Citrate",
       "standard_trait_name": "Citric acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "22",
-        "position": 19161935
-      },
-      "rsid": "rs2040771",
-      "locus_GRCh38": {
-        "chromosome": "22",
-        "position": 19174422
-      }
     }
   },
   {
@@ -15220,21 +12010,6 @@
       ],
       "reported_trait_name": "Glycine",
       "standard_trait_name": "Glycine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "2",
-        "position": 211540507
-      },
-      "rsid": "rs1047891",
-      "locus_GRCh38": {
-        "chromosome": "2",
-        "position": 210675783
-      }
     }
   },
   {
@@ -15290,21 +12065,6 @@
       ],
       "reported_trait_name": "Glycine",
       "standard_trait_name": "Glycine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "TA",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "9",
-        "position": 5877295
-      },
-      "rsid": "rs140348140",
-      "locus_GRCh38": {
-        "chromosome": "9",
-        "position": 5877295
-      }
     }
   },
   {
@@ -15360,21 +12120,6 @@
       ],
       "reported_trait_name": "Glycine",
       "standard_trait_name": "Glycine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 81065282
-      },
-      "rsid": "rs10083777",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 81031677
-      }
     }
   },
   {
@@ -15430,21 +12175,6 @@
       ],
       "reported_trait_name": "XL.HDL.PL",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "1",
-        "position": 161190250
-      },
-      "rsid": "rs4503368",
-      "locus_GRCh38": {
-        "chromosome": "1",
-        "position": 161220460
-      }
     }
   },
   {
@@ -15500,21 +12230,6 @@
       ],
       "reported_trait_name": "S.HDL.P",
       "standard_trait_name": "high density lipoprotein cholesterol measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "T"
-      },
-      "locus_GRCh37": {
-        "chromosome": "20",
-        "position": 44551855
-      },
-      "rsid": "rs6073958",
-      "locus_GRCh38": {
-        "chromosome": "20",
-        "position": 45923216
-      }
     }
   },
   {
@@ -15577,21 +12292,6 @@
       ],
       "reported_trait_name": "Alanine",
       "standard_trait_name": "L-Alanine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 47201814
-      },
-      "rsid": "rs4554975",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 46808031
-      }
     }
   },
   {
@@ -15647,21 +12347,6 @@
       ],
       "reported_trait_name": "Glutamine",
       "standard_trait_name": "L-Glutamine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 56865338
-      },
-      "rsid": "rs2657879",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 56471554
-      }
     }
   },
   {
@@ -15717,21 +12402,6 @@
       ],
       "reported_trait_name": "Metabolite levels (small molecules and protein measures) (Histidine)",
       "standard_trait_name": "L-Histidine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 96314795
-      },
-      "rsid": "rs7954638",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 95921017
-      }
     }
   },
   {
@@ -15787,21 +12457,6 @@
       ],
       "reported_trait_name": "Phenylalanine",
       "standard_trait_name": "L-Phenylalanine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "G",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "12",
-        "position": 103242396
-      },
-      "rsid": "rs1718309",
-      "locus_GRCh38": {
-        "chromosome": "12",
-        "position": 102848618
-      }
     }
   },
   {
@@ -15857,21 +12512,6 @@
       ],
       "reported_trait_name": "Tyrosine",
       "standard_trait_name": "L-Tyrosine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "A",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "6",
-        "position": 111543944
-      },
-      "rsid": "rs14399",
-      "locus_GRCh38": {
-        "chromosome": "6",
-        "position": 111222741
-      }
     }
   },
   {
@@ -15927,21 +12567,6 @@
       ],
       "reported_trait_name": "Valine",
       "standard_trait_name": "L-Valine"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "C",
-        "reference": "A"
-      },
-      "locus_GRCh37": {
-        "chromosome": "4",
-        "position": 89206230
-      },
-      "rsid": "rs9637599",
-      "locus_GRCh38": {
-        "chromosome": "4",
-        "position": 88285078
-      }
     }
   },
   {
@@ -15997,21 +12622,6 @@
       ],
       "reported_trait_name": "Pyruvate",
       "standard_trait_name": "Pyruvic acid"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "16",
-        "position": 69979271
-      },
-      "rsid": "rs74249229",
-      "locus_GRCh38": {
-        "chromosome": "16",
-        "position": 69945368
-      }
     }
   },
   {
@@ -16067,21 +12677,6 @@
       ],
       "reported_trait_name": "Triglycerides",
       "standard_trait_name": "triglyceride measurement"
-    },
-    "sentinel_variant_new": {
-      "alleles": {
-        "alternative": "T",
-        "reference": "C"
-      },
-      "locus_GRCh37": {
-        "chromosome": "7",
-        "position": 72982874
-      },
-      "rsid": "rs17145738",
-      "locus_GRCh38": {
-        "chromosome": "7",
-        "position": 73568544
-      }
     }
   }
 ]

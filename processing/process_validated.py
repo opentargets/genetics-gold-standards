@@ -38,7 +38,7 @@ def main():
     for record in gold_standards:
 
         # Lift-over positions to all assemblies
-        record['sentinel_variant_new'] = fill_in_assemblies(
+        record['sentinel_variant'] = fill_in_assemblies(
             record['sentinel_variant'],
             args.grch37_to_38,
             args.grch38_to_37

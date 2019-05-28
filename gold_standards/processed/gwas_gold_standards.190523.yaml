@@ -34,17 +34,6 @@
       chromosome: '16'
       position: 81230992
     rsid: rs6564851
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '16'
-      position: 81264597
-    locus_GRCh38:
-      chromosome: '16'
-      position: 81230992
-    rsid: rs6564851
   trait_info:
     ontology:
     - HMDB0000561
@@ -75,17 +64,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '2'
-      position: 234672639
-    locus_GRCh38:
-      chromosome: '2'
-      position: 233763993
-    rsid: rs6742078
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: G
@@ -138,17 +116,6 @@
       chromosome: X
       position: 154326058
     rsid: rs766420
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: X
-      position: 153554404
-    locus_GRCh38:
-      chromosome: X
-      position: 154326058
-    rsid: rs766420
   trait_info:
     ontology:
     - HMDB0000054
@@ -180,17 +147,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '14'
-      position: 64235556
-    locus_GRCh38:
-      chromosome: '14'
-      position: 63768838
-    rsid: rs7157785
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: G
@@ -241,17 +197,6 @@
       chromosome: '2'
       position: 168906638
     rsid: rs560887
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '2'
-      position: 169763148
-    locus_GRCh38:
-      chromosome: '2'
-      position: 168906638
-    rsid: rs560887
   trait_info:
     ontology:
     - HMDB0000122
@@ -282,17 +227,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '4'
-      position: 72608383
-    locus_GRCh38:
-      chromosome: '4'
-      position: 71742666
-    rsid: rs2282679
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -343,17 +277,6 @@
       chromosome: '11'
       position: 14893332
     rsid: rs10741657
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '11'
-      position: 14914878
-    locus_GRCh38:
-      chromosome: '11'
-      position: 14893332
-    rsid: rs10741657
   trait_info:
     ontology:
     - HMDB0001438
@@ -394,17 +317,6 @@
       chromosome: '11'
       position: 71456403
     rsid: rs12785878
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '11'
-      position: 71167449
-    locus_GRCh38:
-      chromosome: '11'
-      position: 71456403
-    rsid: rs12785878
   trait_info:
     ontology:
     - HMDB0001438
@@ -435,17 +347,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '1'
-      position: 21823292
-    locus_GRCh38:
-      chromosome: '1'
-      position: 21496799
-    rsid: rs1697421
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -497,17 +398,6 @@
       chromosome: '12'
       position: 4497002
     rsid: rs2970818
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: T
-    locus_GRCh37:
-      chromosome: '12'
-      position: 4606168
-    locus_GRCh38:
-      chromosome: '12'
-      position: 4497002
-    rsid: rs2970818
   trait_info:
     ontology:
     - HMDB0001315
@@ -538,17 +428,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '1'
-      position: 155162067
-    locus_GRCh38:
-      chromosome: '1'
-      position: 155192276
-    rsid: rs4072037
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -599,17 +478,6 @@
       chromosome: '9'
       position: 74884880
     rsid: rs11144134
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '9'
-      position: 77499796
-    locus_GRCh38:
-      chromosome: '9'
-      position: 74884880
-    rsid: rs11144134
   trait_info:
     ontology:
     - HMDB0000547
@@ -640,17 +508,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '14'
-      position: 65758642
-    locus_GRCh38:
-      chromosome: '14'
-      position: 65291924
-    rsid: rs7159888
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -703,17 +560,6 @@
       chromosome: '1'
       position: 94587797
     rsid: rs12029080
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 95053353
-    locus_GRCh38:
-      chromosome: '1'
-      position: 94587797
-    rsid: rs12029080
   trait_info:
     ontology:
     - EFO_0004507
@@ -745,17 +591,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 169477574
-    locus_GRCh38:
-      chromosome: '1'
-      position: 169508336
-    rsid: rs6687813
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: A
@@ -806,17 +641,6 @@
       chromosome: '19'
       position: 15879621
     rsid: rs2108622
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '19'
-      position: 15990431
-    locus_GRCh38:
-      chromosome: '19'
-      position: 15879621
-    rsid: rs2108622
   trait_info:
     ontology:
     - HMDB0001893
@@ -847,17 +671,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '6'
-      position: 10982973
-    locus_GRCh38:
-      chromosome: '6'
-      position: 10982740
-    rsid: rs3734398
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -908,17 +721,6 @@
       chromosome: '10'
       position: 93588425
     rsid: rs10882272
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '10'
-      position: 95348182
-    locus_GRCh38:
-      chromosome: '10'
-      position: 93588425
-    rsid: rs10882272
   trait_info:
     ontology:
     - HMDB0000305
@@ -949,17 +751,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '18'
-      position: 29187279
-    locus_GRCh38:
-      chromosome: '18'
-      position: 31607316
-    rsid: rs1667255
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: A
@@ -1016,17 +807,6 @@
       chromosome: '7'
       position: 17269655
     rsid: rs12670403
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 17309279
-    locus_GRCh38:
-      chromosome: '7'
-      position: 17269655
-    rsid: rs12670403
   trait_info:
     ontology:
     - HMDB0001847
@@ -1057,17 +837,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '6'
-      position: 86117129
-    locus_GRCh38:
-      chromosome: '6'
-      position: 85407411
-    rsid: rs494562
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -1118,17 +887,6 @@
       chromosome: '17'
       position: 7618597
     rsid: rs12150660
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '17'
-      position: 7521915
-    locus_GRCh38:
-      chromosome: '17'
-      position: 7618597
-    rsid: rs12150660
   trait_info:
     ontology:
     - HMDB0000234
@@ -1160,17 +918,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '2'
-      position: 65220910
-    locus_GRCh38:
-      chromosome: '2'
-      position: 64993776
-    rsid: rs2160387
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -1223,17 +970,6 @@
       chromosome: '16'
       position: 71600908
     rsid: rs4788815
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: A
-    locus_GRCh37:
-      chromosome: '16'
-      position: 71634811
-    locus_GRCh38:
-      chromosome: '16'
-      position: 71600908
-    rsid: rs4788815
   trait_info:
     ontology:
     - HMDB0000159
@@ -1275,17 +1011,6 @@
       chromosome: '11'
       position: 68794860
     rsid: rs2229738
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 68562328
-    locus_GRCh38:
-      chromosome: '11'
-      position: 68794860
-    rsid: rs2229738
   trait_info:
     ontology:
     - HMDB0000673
@@ -1316,17 +1041,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '6'
-      position: 32136547
-    locus_GRCh38:
-      chromosome: '6'
-      position: 32168770
-    rsid: rs1061808
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -1378,17 +1092,6 @@
       chromosome: '4'
       position: 47549846
     rsid: rs13106975
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '4'
-      position: 47551863
-    locus_GRCh38:
-      chromosome: '4'
-      position: 47549846
-    rsid: rs13106975
   trait_info:
     ontology:
     - 'EFO_0004622 '
@@ -1419,17 +1122,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '10'
-      position: 104623578
-    locus_GRCh38:
-      chromosome: '10'
-      position: 102863821
-    rsid: rs9527
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -1490,17 +1182,6 @@
       chromosome: '11'
       position: 64696613
     rsid: rs504915
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: T
-    locus_GRCh37:
-      chromosome: '11'
-      position: 64464085
-    locus_GRCh38:
-      chromosome: '11'
-      position: 64696613
-    rsid: rs504915
   trait_info:
     ontology:
     - HMDB0000294
@@ -1540,17 +1221,6 @@
       chromosome: '18'
       position: 45607165
     rsid: rs7227483
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '18'
-      position: 43187130
-    locus_GRCh38:
-      chromosome: '18'
-      position: 45607165
-    rsid: rs7227483
   trait_info:
     ontology:
     - HMDB0000294
@@ -1579,17 +1249,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 170713290
-    locus_GRCh38:
-      chromosome: '3'
-      position: 170995501
-    rsid: rs1280
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -1639,17 +1298,6 @@
       chromosome: '3'
       position: 185795604
     rsid: rs7651090
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '3'
-      position: 185513392
-    locus_GRCh38:
-      chromosome: '3'
-      position: 185795604
-    rsid: rs7651090
   trait_info:
     ontology:
     - HMDB0000122
@@ -1678,17 +1326,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '5'
-      position: 95539448
-    locus_GRCh38:
-      chromosome: '5'
-      position: 96203744
-    rsid: rs4869272
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -1738,17 +1375,6 @@
       chromosome: '7'
       position: 44192287
     rsid: rs6975024
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '7'
-      position: 44231886
-    locus_GRCh38:
-      chromosome: '7'
-      position: 44192287
-    rsid: rs6975024
   trait_info:
     ontology:
     - HMDB0000122
@@ -1778,17 +1404,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 92708710
-    locus_GRCh38:
-      chromosome: '11'
-      position: 92975544
-    rsid: rs10830963
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: C
@@ -1844,17 +1459,6 @@
       chromosome: '13'
       position: 27913462
     rsid: rs11619319
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '13'
-      position: 28487599
-    locus_GRCh38:
-      chromosome: '13'
-      position: 27913462
-    rsid: rs11619319
   trait_info:
     ontology:
     - HMDB0000122
@@ -1885,17 +1489,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 145723739
-    locus_GRCh38:
-      chromosome: '1'
-      position: 145711327
-    rsid: rs1471633
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: A
@@ -1945,17 +1538,6 @@
       chromosome: '4'
       position: 9942428
     rsid: rs12498742
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '4'
-      position: 9944052
-    locus_GRCh38:
-      chromosome: '4'
-      position: 9942428
-    rsid: rs12498742
   trait_info:
     ontology:
     - HMDB0000289
@@ -1985,17 +1567,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '4'
-      position: 89052323
-    locus_GRCh38:
-      chromosome: '4'
-      position: 88131171
-    rsid: rs2231142
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: G
@@ -2047,17 +1618,6 @@
       chromosome: '1'
       position: 211744902
     rsid: rs11119805
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 211918244
-    locus_GRCh38:
-      chromosome: '1'
-      position: 211744902
-    rsid: rs11119805
   trait_info:
     ontology:
     - HMDB0000827
@@ -2088,17 +1648,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '1'
-      position: 54375570
-    locus_GRCh38:
-      chromosome: '1'
-      position: 53909897
-    rsid: rs2235544
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -2149,17 +1698,6 @@
       chromosome: '9'
       position: 97829181
     rsid: rs7045138
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '9'
-      position: 100591463
-    locus_GRCh38:
-      chromosome: '9'
-      position: 97829181
-    rsid: rs7045138
   trait_info:
     ontology:
     - HMDB0000248
@@ -2191,17 +1729,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '9'
-      position: 139089679
-    locus_GRCh38:
-      chromosome: '9'
-      position: 136197833
-    rsid: rs7860634
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -2255,17 +1782,6 @@
       chromosome: '8'
       position: 97269961
     rsid: rs1864729
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '8'
-      position: 98282189
-    locus_GRCh38:
-      chromosome: '8'
-      position: 97269961
-    rsid: rs1864729
   trait_info:
     ontology:
     - HMDB0000151
@@ -2296,17 +1812,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 151344741
-    locus_GRCh38:
-      chromosome: '1'
-      position: 151372265
-    rsid: rs2769264
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -2356,17 +1861,6 @@
       chromosome: '7'
       position: 80711306
     rsid: rs2366858
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 80340622
-    locus_GRCh38:
-      chromosome: '7'
-      position: 80711306
-    rsid: rs2366858
   trait_info:
     ontology:
     - EFO_0004612
@@ -2396,17 +1890,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '5'
-      position: 78330227
-    locus_GRCh38:
-      chromosome: '5'
-      position: 79034404
-    rsid: rs248386
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -2457,17 +1940,6 @@
       chromosome: '4'
       position: 177439897
     rsid: rs4690522
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '4'
-      position: 178361051
-    locus_GRCh38:
-      chromosome: '4'
-      position: 177439897
-    rsid: rs4690522
   trait_info:
     ontology:
     - HMDB0000168
@@ -2508,17 +1980,6 @@
       chromosome: '3'
       position: 124732217
     rsid: rs9844948
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '3'
-      position: 124451064
-    locus_GRCh38:
-      chromosome: '3'
-      position: 124732217
-    rsid: rs9844948
   trait_info:
     ontology:
     - HMDB0000226
@@ -2547,17 +2008,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: X
-      position: 105276609
-    locus_GRCh38:
-      chromosome: X
-      position: 106032618
-    rsid: rs7883218
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -2610,17 +2060,6 @@
       chromosome: '1'
       position: 11796321
     rsid: rs1801133
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 11856378
-    locus_GRCh38:
-      chromosome: '1'
-      position: 11796321
-    rsid: rs1801133
   trait_info:
     ontology:
     - HMDB0000742
@@ -2651,17 +2090,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 45978675
-    locus_GRCh38:
-      chromosome: '1'
-      position: 45513003
-    rsid: rs4660306
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -2712,17 +2140,6 @@
       chromosome: '1'
       position: 236885376
     rsid: rs2275565
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 237048676
-    locus_GRCh38:
-      chromosome: '1'
-      position: 236885376
-    rsid: rs2275565
   trait_info:
     ontology:
     - HMDB0000742
@@ -2763,17 +2180,6 @@
       chromosome: '6'
       position: 49414480
     rsid: rs9369898
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '6'
-      position: 49382193
-    locus_GRCh38:
-      chromosome: '6'
-      position: 49414480
-    rsid: rs9369898
   trait_info:
     ontology:
     - HMDB0000742
@@ -2804,17 +2210,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 89148372
-    locus_GRCh38:
-      chromosome: '11'
-      position: 89415204
-    rsid: rs7130284
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -2866,17 +2261,6 @@
       chromosome: '16'
       position: 89641688
     rsid: rs154657
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '16'
-      position: 89708096
-    locus_GRCh38:
-      chromosome: '16'
-      position: 89641688
-    rsid: rs154657
   trait_info:
     ontology:
     - HMDB0000742
@@ -2907,17 +2291,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '15'
-      position: 45652703
-    locus_GRCh38:
-      chromosome: '15'
-      position: 45360505
-    rsid: rs1153858
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -2968,17 +2341,6 @@
       chromosome: '15'
       position: 51232095
     rsid: rs2414095
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '15'
-      position: 51524292
-    locus_GRCh38:
-      chromosome: '15'
-      position: 51232095
-    rsid: rs2414095
   trait_info:
     ontology:
     - HMDB0000151
@@ -3009,17 +2371,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: '2'
-      position: 234264848
-    locus_GRCh38:
-      chromosome: '2'
-      position: 233356202
-    rsid: rs1550532
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: C
@@ -3071,17 +2422,6 @@
       chromosome: '3'
       position: 122284910
     rsid: rs1801725
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '3'
-      position: 122003757
-    locus_GRCh38:
-      chromosome: '3'
-      position: 122284910
-    rsid: rs1801725
   trait_info:
     ontology:
     - HMDB0000464
@@ -3112,17 +2452,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 65271197
-    locus_GRCh38:
-      chromosome: '7'
-      position: 65806210
-    rsid: rs17711722
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -3164,17 +2493,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '20'
-      position: 52774427
-    locus_GRCh38:
-      chromosome: '20'
-      position: 54157888
-    rsid: rs1570669
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -3229,17 +2547,6 @@
       chromosome: '1'
       position: 234717659
     rsid: rs558971
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 234853406
-    locus_GRCh38:
-      chromosome: '1'
-      position: 234717659
-    rsid: rs558971
   trait_info:
     ontology:
     - HMDB0000067
@@ -3270,17 +2577,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '2'
-      position: 169830155
-    locus_GRCh38:
-      chromosome: '2'
-      position: 168973645
-    rsid: rs2287623
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -3334,17 +2630,6 @@
       chromosome: '3'
       position: 12226148
     rsid: rs7616006
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '3'
-      position: 12267648
-    locus_GRCh38:
-      chromosome: '3'
-      position: 12226148
-    rsid: rs7616006
   trait_info:
     ontology:
     - HMDB0000067
@@ -3378,17 +2663,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '6'
-      position: 161010118
-    locus_GRCh38:
-      chromosome: '6'
-      position: 160589086
-    rsid: rs10455872
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -3450,17 +2724,6 @@
       chromosome: '8'
       position: 58480714
     rsid: rs4738684
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '8'
-      position: 59393273
-    locus_GRCh38:
-      chromosome: '8'
-      position: 58480714
-    rsid: rs4738684
   trait_info:
     ontology:
     - HMDB0000067
@@ -3493,17 +2756,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '9'
-      position: 2640759
-    locus_GRCh38:
-      chromosome: '9'
-      position: 2640759
-    rsid: rs3780181
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -3557,17 +2809,6 @@
       chromosome: '22'
       position: 46231706
     rsid: rs4253772
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '22'
-      position: 46627603
-    locus_GRCh38:
-      chromosome: '22'
-      position: 46231706
-    rsid: rs4253772
   trait_info:
     ontology:
     - HMDB0000067
@@ -3601,17 +2842,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 156700651
-    locus_GRCh38:
-      chromosome: '1'
-      position: 156730859
-    rsid: rs12145743
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -3667,17 +2897,6 @@
       chromosome: '1'
       position: 230159944
     rsid: rs4846914
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 230295691
-    locus_GRCh38:
-      chromosome: '1'
-      position: 230159944
-    rsid: rs4846914
   trait_info:
     ontology:
     - EFO_0004612
@@ -3721,17 +2940,6 @@
       chromosome: '8'
       position: 143221248
     rsid: rs10087900
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '8'
-      position: 144303418
-    locus_GRCh38:
-      chromosome: '8'
-      position: 143221248
-    rsid: rs10087900
   trait_info:
     ontology:
     - EFO_0004612
@@ -3765,17 +2973,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '9'
-      position: 107664301
-    locus_GRCh38:
-      chromosome: '9'
-      position: 104902020
-    rsid: rs1883025
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -3830,17 +3027,6 @@
       chromosome: '11'
       position: 47312134
     rsid: rs3847502
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 47333685
-    locus_GRCh38:
-      chromosome: '11'
-      position: 47312134
-    rsid: rs3847502
   trait_info:
     ontology:
     - EFO_0004612
@@ -3874,17 +3060,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 75455021
-    locus_GRCh38:
-      chromosome: '11'
-      position: 75743976
-    rsid: rs499974
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -3938,17 +3113,6 @@
       chromosome: '12'
       position: 109512339
     rsid: rs2241210
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 109950144
-    locus_GRCh38:
-      chromosome: '12'
-      position: 109512339
-    rsid: rs2241210
   trait_info:
     ontology:
     - EFO_0004612
@@ -3981,17 +3145,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 125259888
-    locus_GRCh38:
-      chromosome: '12'
-      position: 124775342
-    rsid: rs838876
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -4045,17 +3198,6 @@
       chromosome: '14'
       position: 104810872
     rsid: rs4983559
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '14'
-      position: 105277209
-    locus_GRCh38:
-      chromosome: '14'
-      position: 104810872
-    rsid: rs4983559
   trait_info:
     ontology:
     - EFO_0004612
@@ -4086,17 +3228,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '15'
-      position: 58683366
-    locus_GRCh38:
-      chromosome: '15'
-      position: 58391167
-    rsid: rs1532085
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -4151,17 +3282,6 @@
       chromosome: '16'
       position: 56955678
     rsid: rs247616
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '16'
-      position: 56989590
-    locus_GRCh38:
-      chromosome: '16'
-      position: 56955678
-    rsid: rs247616
   trait_info:
     ontology:
     - EFO_0004612
@@ -4193,17 +3313,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '16'
-      position: 67928042
-    locus_GRCh38:
-      chromosome: '16'
-      position: 67894139
-    rsid: rs16942887
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -4257,17 +3366,6 @@
       chromosome: '17'
       position: 39665182
     rsid: rs113612868
-  sentinel_variant_new:
-    alleles:
-      alternative: GT
-      reference: G
-    locus_GRCh37:
-      chromosome: '17'
-      position: 37821435
-    locus_GRCh38:
-      chromosome: '17'
-      position: 39665182
-    rsid: rs113612868
   trait_info:
     ontology:
     - EFO_0004612
@@ -4301,17 +3399,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '18'
-      position: 47167214
-    locus_GRCh38:
-      chromosome: '18'
-      position: 49640844
-    rsid: rs4939883
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -4365,17 +3452,6 @@
       chromosome: '20'
       position: 44413724
     rsid: rs1800961
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '20'
-      position: 43042364
-    locus_GRCh38:
-      chromosome: '20'
-      position: 44413724
-    rsid: rs1800961
   trait_info:
     ontology:
     - EFO_0004612
@@ -4409,17 +3485,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 25768937
-    locus_GRCh38:
-      chromosome: '1'
-      position: 25442446
-    rsid: rs10903129
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -4474,17 +3539,6 @@
       chromosome: '1'
       position: 55039974
     rsid: rs11591147
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 55505647
-    locus_GRCh38:
-      chromosome: '1'
-      position: 55039974
-    rsid: rs11591147
   trait_info:
     ontology:
     - EFO_0004611
@@ -4528,17 +3582,6 @@
       chromosome: '1'
       position: 109275908
     rsid: rs646776
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '1'
-      position: 109818530
-    locus_GRCh38:
-      chromosome: '1'
-      position: 109275908
-    rsid: rs646776
   trait_info:
     ontology:
     - EFO_0004611
@@ -4572,17 +3615,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '2'
-      position: 21263900
-    locus_GRCh38:
-      chromosome: '2'
-      position: 21041028
-    rsid: rs1367117
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -4637,17 +3669,6 @@
       chromosome: '2'
       position: 118078265
     rsid: rs10490626
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '2'
-      position: 118835841
-    locus_GRCh38:
-      chromosome: '2'
-      position: 118078265
-    rsid: rs10490626
   trait_info:
     ontology:
     - EFO_0004611
@@ -4681,17 +3702,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '5'
-      position: 74656539
-    locus_GRCh38:
-      chromosome: '5'
-      position: 75360714
-    rsid: rs12916
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -4746,17 +3756,6 @@
       chromosome: '6'
       position: 16127176
     rsid: rs3757354
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '6'
-      position: 16127407
-    locus_GRCh38:
-      chromosome: '6'
-      position: 16127176
-    rsid: rs3757354
   trait_info:
     ontology:
     - EFO_0004611
@@ -4799,17 +3798,6 @@
       chromosome: '7'
       position: 44542732
     rsid: rs2073547
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '7'
-      position: 44582331
-    locus_GRCh38:
-      chromosome: '7'
-      position: 44542732
-    rsid: rs2073547
   trait_info:
     ontology:
     - EFO_0004611
@@ -4840,17 +3828,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '16'
-      position: 72108093
-    locus_GRCh38:
-      chromosome: '16'
-      position: 72074194
-    rsid: rs2000999
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -4908,17 +3885,6 @@
       chromosome: '17'
       position: 66214462
     rsid: rs1801689
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '17'
-      position: 64210580
-    locus_GRCh38:
-      chromosome: '17'
-      position: 66214462
-    rsid: rs1801689
   trait_info:
     ontology:
     - EFO_0004611
@@ -4951,17 +3917,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '19'
-      position: 11202306
-    locus_GRCh38:
-      chromosome: '19'
-      position: 11091630
-    rsid: rs6511720
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: G
@@ -5012,17 +3967,6 @@
       chromosome: '1'
       position: 62668259
     rsid: rs4587594
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 63133930
-    locus_GRCh38:
-      chromosome: '1'
-      position: 62668259
-    rsid: rs4587594
   trait_info:
     ontology:
     - EFO_0004530
@@ -5053,17 +3997,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '4'
-      position: 3473139
-    locus_GRCh38:
-      chromosome: '4'
-      position: 3471412
-    rsid: rs6831256
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -5115,17 +4048,6 @@
       chromosome: '7'
       position: 116717990
     rsid: rs38855
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '7'
-      position: 116358044
-    locus_GRCh38:
-      chromosome: '7'
-      position: 116717990
-    rsid: rs38855
   trait_info:
     ontology:
     - EFO_0004530
@@ -5166,17 +4088,6 @@
       chromosome: '8'
       position: 19986711
     rsid: rs12678919
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '8'
-      position: 19844222
-    locus_GRCh38:
-      chromosome: '8'
-      position: 19986711
-    rsid: rs12678919
   trait_info:
     ontology:
     - EFO_0004530
@@ -5206,17 +4117,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '8'
-      position: 126482621
-    locus_GRCh38:
-      chromosome: '8'
-      position: 125470379
-    rsid: rs2954022
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -5267,17 +4167,6 @@
       chromosome: '1'
       position: 85331427
     rsid: rs28489187
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 85797110
-    locus_GRCh38:
-      chromosome: '1'
-      position: 85331427
-    rsid: rs28489187
   trait_info:
     ontology:
     - HMDB0001539
@@ -5306,17 +4195,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '19'
-      position: 8429323
-    locus_GRCh38:
-      chromosome: '19'
-      position: 8364439
-    rsid: rs116843064
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -5357,17 +4235,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '10'
-      position: 96681846
-    locus_GRCh38:
-      chromosome: '10'
-      position: 94922089
-    rsid: rs1074145
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -5420,17 +4287,6 @@
       chromosome: '22'
       position: 42130692
     rsid: rs1065852
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '22'
-      position: 42526694
-    locus_GRCh38:
-      chromosome: '22'
-      position: 42130692
-    rsid: rs1065852
   trait_info:
     ontology:
     - HMDB0060472
@@ -5463,17 +4319,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '19'
-      position: 49228272
-    locus_GRCh38:
-      chromosome: '19'
-      position: 48725015
-    rsid: rs2287921
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -5525,17 +4370,6 @@
       chromosome: '19'
       position: 32873722
     rsid: rs8101881
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '19'
-      position: 33364628
-    locus_GRCh38:
-      chromosome: '19'
-      position: 32873722
-    rsid: rs8101881
   trait_info:
     ontology:
     - HMDB0000182
@@ -5576,17 +4410,6 @@
       chromosome: '11'
       position: 67653870
     rsid: rs12288023
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '11'
-      position: 67421341
-    locus_GRCh38:
-      chromosome: '11'
-      position: 67653870
-    rsid: rs12288023
   trait_info:
     ontology:
     - HMDB0000512
@@ -5616,17 +4439,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '11'
-      position: 118549582
-    locus_GRCh38:
-      chromosome: '11'
-      position: 118678873
-    rsid: rs507080
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -5678,17 +4490,6 @@
       chromosome: '3'
       position: 126187336
     rsid: rs10934753
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '3'
-      position: 125906179
-    locus_GRCh38:
-      chromosome: '3'
-      position: 126187336
-    rsid: rs10934753
   trait_info:
     ontology:
     - HMDB0000742
@@ -5720,17 +4521,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '6'
-      position: 42925803
-    locus_GRCh38:
-      chromosome: '6'
-      position: 42958065
-    rsid: rs9296404
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -5782,17 +4572,6 @@
       chromosome: '21'
       position: 43067923
     rsid: rs234714
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '21'
-      position: 44488033
-    locus_GRCh38:
-      chromosome: '21'
-      position: 43067923
-    rsid: rs234714
   trait_info:
     ontology:
     - HMDB0000742
@@ -5824,17 +4603,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '8'
-      position: 67360725
-    locus_GRCh38:
-      chromosome: '8'
-      position: 66448490
-    rsid: rs1030420
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -5885,17 +4653,6 @@
       chromosome: '5'
       position: 177415473
     rsid: rs2731672
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '5'
-      position: 176842474
-    locus_GRCh38:
-      chromosome: '5'
-      position: 177415473
-    rsid: rs2731672
   trait_info:
     ontology:
     - HMDB0004246
@@ -5926,17 +4683,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '8'
-      position: 18272438
-    locus_GRCh38:
-      chromosome: '8'
-      position: 18414928
-    rsid: rs4921914
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -5997,17 +4743,6 @@
       chromosome: '17'
       position: 7012082
     rsid: rs2271316
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: '17'
-      position: 6915401
-    locus_GRCh38:
-      chromosome: '17'
-      position: 7012082
-    rsid: rs2271316
   trait_info:
     ontology:
     - HMDB0006111
@@ -6039,17 +4774,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '17'
-      position: 17422768
-    locus_GRCh38:
-      chromosome: '17'
-      position: 17519454
-    rsid: rs748196
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -6101,17 +4825,6 @@
       chromosome: '1'
       position: 119410153
     rsid: rs12141041
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 119952776
-    locus_GRCh38:
-      chromosome: '1'
-      position: 119410153
-    rsid: rs12141041
   trait_info:
     ontology:
     - HMDB0000407
@@ -6143,17 +4856,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 18325146
-    locus_GRCh38:
-      chromosome: '11'
-      position: 18303599
-    rsid: rs2403254
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -6207,17 +4909,6 @@
       chromosome: '8'
       position: 39965626
     rsid: rs2160860
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: A
-    locus_GRCh37:
-      chromosome: '8'
-      position: 39823145
-    locus_GRCh38:
-      chromosome: '8'
-      position: 39965626
-    rsid: rs2160860
   trait_info:
     ontology:
     - HMDB0000472
@@ -6249,17 +4940,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '5'
-      position: 35968000
-    locus_GRCh38:
-      chromosome: '5'
-      position: 35967898
-    rsid: rs10491431
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -6310,17 +4990,6 @@
       chromosome: '6'
       position: 4145964
     rsid: rs9392556
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '6'
-      position: 4146198
-    locus_GRCh38:
-      chromosome: '6'
-      position: 4145964
-    rsid: rs9392556
   trait_info:
     ontology:
     - HMDB0013205
@@ -6351,17 +5020,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '3'
-      position: 30753573
-    locus_GRCh38:
-      chromosome: '3'
-      position: 30712081
-    rsid: rs6804368
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -6414,17 +5072,6 @@
       chromosome: '10'
       position: 5214309
     rsid: rs17134585
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '10'
-      position: 5256272
-    locus_GRCh38:
-      chromosome: '10'
-      position: 5214309
-    rsid: rs17134585
   trait_info:
     ontology:
     - HMDB0002759
@@ -6457,17 +5104,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: '11'
-      position: 61571348
-    locus_GRCh38:
-      chromosome: '11'
-      position: 61803876
-    rsid: rs174548
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: C
@@ -6523,17 +5159,6 @@
       chromosome: '19'
       position: 54172738
     rsid: rs2576452
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '19'
-      position: 54676433
-    locus_GRCh38:
-      chromosome: '19'
-      position: 54172738
-    rsid: rs2576452
   trait_info:
     ontology:
     - HMDB0060102
@@ -6565,17 +5190,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '17'
-      position: 61566031
-    locus_GRCh38:
-      chromosome: '17'
-      position: 63488670
-    rsid: rs4343
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -6634,17 +5248,6 @@
       chromosome: '5'
       position: 79050946
     rsid: rs16876394
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '5'
-      position: 78346769
-    locus_GRCh38:
-      chromosome: '5'
-      position: 79050946
-    rsid: rs16876394
   trait_info:
     ontology:
     - HMDB0000043
@@ -6684,17 +5287,6 @@
       chromosome: '12'
       position: 211754
     rsid: rs499368
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: T
-    locus_GRCh37:
-      chromosome: '12'
-      position: 320920
-    locus_GRCh38:
-      chromosome: '12'
-      position: 211754
-    rsid: rs499368
   trait_info:
     ontology:
     - HMDB0000043
@@ -6724,17 +5316,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '3'
-      position: 186454180
-    locus_GRCh38:
-      chromosome: '3'
-      position: 186736391
-    rsid: rs5030062
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: A
@@ -6785,17 +5366,6 @@
       chromosome: '4'
       position: 186253529
     rsid: rs4253311
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '4'
-      position: 187174683
-    locus_GRCh38:
-      chromosome: '4'
-      position: 186253529
-    rsid: rs4253311
   trait_info:
     ontology:
     - HMDB0004246
@@ -6836,17 +5406,6 @@
       chromosome: '12'
       position: 120722812
     rsid: rs2066938
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 121160615
-    locus_GRCh38:
-      chromosome: '12'
-      position: 120722812
-    rsid: rs2066938
   trait_info:
     ontology:
     - HMDB0002013
@@ -6877,17 +5436,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 196682346
-    locus_GRCh38:
-      chromosome: '1'
-      position: 196713216
-    rsid: rs7535263
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -6944,17 +5492,6 @@
       chromosome: '15'
       position: 89802104
     rsid: rs2007084
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '15'
-      position: 90345335
-    locus_GRCh38:
-      chromosome: '15'
-      position: 89802104
-    rsid: rs2007084
   trait_info:
     ontology:
     - EFO_0004983
@@ -6986,17 +5523,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '10'
-      position: 97395962
-    locus_GRCh38:
-      chromosome: '10'
-      position: 95636205
-    rsid: rs56322409
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -7039,17 +5565,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: T
-    locus_GRCh37:
-      chromosome: '2'
-      position: 31810974
-    locus_GRCh38:
-      chromosome: '2'
-      position: 31585905
-    rsid: rs559555
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: T
@@ -7104,17 +5619,6 @@
       chromosome: '22'
       position: 24606114
     rsid: rs2330809
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '22'
-      position: 25002081
-    locus_GRCh38:
-      chromosome: '22'
-      position: 24606114
-    rsid: rs2330809
   trait_info:
     ontology:
     - HMDB0000656
@@ -7148,17 +5652,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '4'
-      position: 159630817
-    locus_GRCh38:
-      chromosome: '4'
-      position: 158709665
-    rsid: rs8396
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -7209,17 +5702,6 @@
       chromosome: '1'
       position: 46525009
     rsid: rs7542172
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 46990681
-    locus_GRCh38:
-      chromosome: '1'
-      position: 46525009
-    rsid: rs7542172
   trait_info:
     ontology:
     - HMDB0002994
@@ -7250,17 +5732,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '15'
-      position: 50477138
-    locus_GRCh38:
-      chromosome: '15'
-      position: 50184941
-    rsid: rs1365505
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -7313,17 +5784,6 @@
       chromosome: '9'
       position: 133278860
     rsid: rs649129
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '9'
-      position: 136154304
-    locus_GRCh38:
-      chromosome: '9'
-      position: 133278860
-    rsid: rs649129
   trait_info:
     ontology:
     - EFO_0004623
@@ -7365,17 +5825,6 @@
       chromosome: '1'
       position: 53230210
     rsid: rs13375749
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 53695882
-    locus_GRCh38:
-      chromosome: '1'
-      position: 53230210
-    rsid: rs13375749
   trait_info:
     ontology:
     - HMDB13130
@@ -7406,17 +5855,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '19'
-      position: 13010520
-    locus_GRCh38:
-      chromosome: '19'
-      position: 12899706
-    rsid: rs8012
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -7470,17 +5908,6 @@
       chromosome: '3'
       position: 183037421
     rsid: rs2270968
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 182755209
-    locus_GRCh38:
-      chromosome: '3'
-      position: 183037421
-    rsid: rs2270968
   trait_info:
     ontology:
     - HMDB0062555
@@ -7522,17 +5949,6 @@
       chromosome: '6'
       position: 16287961
     rsid: rs6459467
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '6'
-      position: 16288192
-    locus_GRCh38:
-      chromosome: '6'
-      position: 16287961
-    rsid: rs6459467
   trait_info:
     ontology:
     - HMDB0000157
@@ -7563,17 +5979,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: A
-    locus_GRCh37:
-      chromosome: '7'
-      position: 50610379
-    locus_GRCh38:
-      chromosome: '7'
-      position: 50542681
-    rsid: rs7809234
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: A
@@ -7625,17 +6030,6 @@
       chromosome: '9'
       position: 128809748
     rsid: rs15676
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '9'
-      position: 131572027
-    locus_GRCh38:
-      chromosome: '9'
-      position: 128809748
-    rsid: rs15676
   trait_info:
     ontology:
     - HMDB0000671
@@ -7666,17 +6060,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: C
-    locus_GRCh37:
-      chromosome: '6'
-      position: 160564476
-    locus_GRCh38:
-      chromosome: '6'
-      position: 160143444
-    rsid: rs662138
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: C
@@ -7729,17 +6112,6 @@
       chromosome: '15'
       position: 76738451
     rsid: rs2404602
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '15'
-      position: 77030792
-    locus_GRCh38:
-      chromosome: '15'
-      position: 76738451
-    rsid: rs2404602
   trait_info:
     ontology:
     - HMDB0062556
@@ -7772,17 +6144,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '13'
-      position: 48459901
-    locus_GRCh38:
-      chromosome: '13'
-      position: 47885766
-    rsid: rs4941615
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -7834,17 +6195,6 @@
       chromosome: '1'
       position: 75696204
     rsid: rs4949874
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 76161889
-    locus_GRCh38:
-      chromosome: '1'
-      position: 75696204
-    rsid: rs4949874
   trait_info:
     ontology:
     - HMDB0000201
@@ -7876,17 +6226,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '11'
-      position: 62176943
-    locus_GRCh38:
-      chromosome: '11'
-      position: 62409471
-    rsid: rs3017098
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -7937,17 +6276,6 @@
       chromosome: '14'
       position: 104141731
     rsid: rs2011069
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '14'
-      position: 104608068
-    locus_GRCh38:
-      chromosome: '14'
-      position: 104141731
-    rsid: rs2011069
   trait_info:
     ontology:
     - HMDB0000168
@@ -7977,17 +6305,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '16'
-      position: 87878822
-    locus_GRCh38:
-      chromosome: '16'
-      position: 87845216
-    rsid: rs8051149
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -8038,17 +6355,6 @@
       chromosome: '1'
       position: 119667132
     rsid: rs1163251
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 120209755
-    locus_GRCh38:
-      chromosome: '1'
-      position: 119667132
-    rsid: rs1163251
   trait_info:
     ontology:
     - HMDB0000187
@@ -8078,17 +6384,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '4'
-      position: 156808288
-    locus_GRCh38:
-      chromosome: '4'
-      position: 155887136
-    rsid: rs13122250
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -8129,17 +6424,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '5'
-      position: 131665378
-    locus_GRCh38:
-      chromosome: '5'
-      position: 132329685
-    rsid: rs272889
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -8192,17 +6476,6 @@
       chromosome: '1'
       position: 151958169
     rsid: rs6693388
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 151930645
-    locus_GRCh38:
-      chromosome: '1'
-      position: 151958169
-    rsid: rs6693388
   trait_info:
     ontology:
     - HMDB0000673
@@ -8245,17 +6518,6 @@
       chromosome: '1'
       position: 171111474
     rsid: rs7061710
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 171080615
-    locus_GRCh38:
-      chromosome: '1'
-      position: 171111474
-    rsid: rs7061710
   trait_info:
     ontology:
     - HMDB0002108
@@ -8286,17 +6548,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '19'
-      position: 18618867
-    locus_GRCh38:
-      chromosome: '19'
-      position: 18508057
-    rsid: rs4808136
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -8348,17 +6599,6 @@
       chromosome: '10'
       position: 100315722
     rsid: rs603424
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '10'
-      position: 102075479
-    locus_GRCh38:
-      chromosome: '10'
-      position: 100315722
-    rsid: rs603424
   trait_info:
     ontology:
     - HMDB0000806
@@ -8390,17 +6630,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '7'
-      position: 150543721
-    locus_GRCh38:
-      chromosome: '7'
-      position: 150846633
-    rsid: rs1005390
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -8457,17 +6686,6 @@
       chromosome: '10'
       position: 133383832
     rsid: rs11101730
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: A
-    locus_GRCh37:
-      chromosome: '10'
-      position: 135197336
-    locus_GRCh38:
-      chromosome: '10'
-      position: 133383832
-    rsid: rs11101730
   trait_info:
     ontology:
     - HMDB0061384
@@ -8500,17 +6718,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '2'
-      position: 73868328
-    locus_GRCh38:
-      chromosome: '2'
-      position: 73641201
-    rsid: rs13538
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -8572,17 +6779,6 @@
       chromosome: '2'
       position: 134873830
     rsid: rs6430553
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '2'
-      position: 135631400
-    locus_GRCh38:
-      chromosome: '2'
-      position: 134873830
-    rsid: rs6430553
   trait_info:
     ontology:
     - HMDB0004194
@@ -8614,17 +6810,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '2'
-      position: 210874246
-    locus_GRCh38:
-      chromosome: '2'
-      position: 210009522
-    rsid: rs3738934
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -8675,17 +6860,6 @@
       chromosome: '22'
       position: 19963748
     rsid: rs4680
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '22'
-      position: 19951271
-    locus_GRCh38:
-      chromosome: '22'
-      position: 19963748
-    rsid: rs4680
   trait_info:
     ontology:
     - HMDB0000044
@@ -8715,17 +6889,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '22'
-      position: 51063477
-    locus_GRCh38:
-      chromosome: '22'
-      position: 50625049
-    rsid: rs6151429
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -8766,17 +6929,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '2'
-      position: 27424636
-    locus_GRCh38:
-      chromosome: '2'
-      position: 27201768
-    rsid: rs1395
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -8829,17 +6981,6 @@
       chromosome: '16'
       position: 58795886
     rsid: rs12709013
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '16'
-      position: 58829790
-    locus_GRCh38:
-      chromosome: '16'
-      position: 58795886
-    rsid: rs12709013
   trait_info:
     ontology:
     - HMDB0000779
@@ -8871,17 +7012,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 53282188
-    locus_GRCh38:
-      chromosome: '3'
-      position: 53248172
-    rsid: rs4687717
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -8934,17 +7064,6 @@
       chromosome: '15'
       position: 40411012
     rsid: rs9635324
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '15'
-      position: 40703211
-    locus_GRCh38:
-      chromosome: '15'
-      position: 40411012
-    rsid: rs9635324
   trait_info:
     ontology:
     - HMDB0000824
@@ -8986,17 +7105,6 @@
       chromosome: '8'
       position: 144100505
     rsid: rs12550729
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '8'
-      position: 145155408
-    locus_GRCh38:
-      chromosome: '8'
-      position: 144100505
-    rsid: rs12550729
   trait_info:
     ontology:
     - HMDB0000267
@@ -9027,17 +7135,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '19'
-      position: 48385057
-    locus_GRCh38:
-      chromosome: '19'
-      position: 47881800
-    rsid: rs2547231
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -9089,17 +7186,6 @@
       chromosome: '3'
       position: 67365898
     rsid: rs17806888
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 67416322
-    locus_GRCh38:
-      chromosome: '3'
-      position: 67365898
-    rsid: rs17806888
   trait_info:
     ontology:
     - HMDB0061717
@@ -9130,17 +7216,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 47331966
-    locus_GRCh38:
-      chromosome: '1'
-      position: 46866294
-    rsid: rs6678639
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -9192,17 +7267,6 @@
       chromosome: '1'
       position: 20588679
     rsid: rs532545
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '1'
-      position: 20915172
-    locus_GRCh38:
-      chromosome: '1'
-      position: 20588679
-    rsid: rs532545
   trait_info:
     ontology:
     - HMDB0000296
@@ -9233,17 +7297,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 48102911
-    locus_GRCh38:
-      chromosome: '7'
-      position: 48063314
-    rsid: rs2686796
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -9295,17 +7348,6 @@
       chromosome: '22'
       position: 50533323
     rsid: rs131794
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '22'
-      position: 50971752
-    locus_GRCh38:
-      chromosome: '22'
-      position: 50533323
-    rsid: rs131794
   trait_info:
     ontology:
     - HMDB0000296
@@ -9337,17 +7379,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '10'
-      position: 17156151
-    locus_GRCh38:
-      chromosome: '10'
-      position: 17114152
-    rsid: rs1801222
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -9398,17 +7429,6 @@
       chromosome: '20'
       position: 22600630
     rsid: rs6048216
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '20'
-      position: 22581268
-    locus_GRCh38:
-      chromosome: '20'
-      position: 22600630
-    rsid: rs6048216
   trait_info:
     ontology:
     - HMDB0000122
@@ -9439,17 +7459,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '6'
-      position: 131924689
-    locus_GRCh38:
-      chromosome: '6'
-      position: 131603549
-    rsid: rs2248551
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -9504,17 +7513,6 @@
       chromosome: '4'
       position: 68807835
     rsid: rs34100980
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '4'
-      position: 69673553
-    locus_GRCh38:
-      chromosome: '4'
-      position: 68807835
-    rsid: rs34100980
   trait_info:
     ontology:
     - HMDB0001013
@@ -9544,17 +7542,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 133477701
-    locus_GRCh38:
-      chromosome: '3'
-      position: 133758857
-    rsid: rs8177240
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -9605,17 +7592,6 @@
       chromosome: '6'
       position: 26092913
     rsid: rs1800562
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '6'
-      position: 26093141
-    locus_GRCh38:
-      chromosome: '6'
-      position: 26092913
-    rsid: rs1800562
   trait_info:
     ontology:
     - HMDB0015531
@@ -9645,17 +7621,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 100235970
-    locus_GRCh38:
-      chromosome: '7'
-      position: 100638347
-    rsid: rs7385804
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -9696,17 +7661,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '22'
-      position: 37462936
-    locus_GRCh38:
-      chromosome: '22'
-      position: 37066896
-    rsid: rs855791
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -9758,17 +7712,6 @@
       chromosome: '19'
       position: 8216751
     rsid: rs2100944
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '19'
-      position: 8281635
-    locus_GRCh38:
-      chromosome: '19'
-      position: 8216751
-    rsid: rs2100944
   trait_info:
     ontology:
     - HMDB0002212
@@ -9800,17 +7743,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '12'
-      position: 7075882
-    locus_GRCh38:
-      chromosome: '12'
-      position: 6966719
-    rsid: rs2110073
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -9861,17 +7793,6 @@
       chromosome: '9'
       position: 113388911
     rsid: rs1805313
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '9'
-      position: 116151191
-    locus_GRCh38:
-      chromosome: '9'
-      position: 113388911
-    rsid: rs1805313
   trait_info:
     ontology:
     - HMDB0004628
@@ -9901,17 +7822,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '1'
-      position: 220080028
-    locus_GRCh38:
-      chromosome: '1'
-      position: 219906686
-    rsid: rs1776029
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -9962,17 +7872,6 @@
       chromosome: '20'
       position: 12978750
     rsid: rs4814176
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '20'
-      position: 12959398
-    locus_GRCh38:
-      chromosome: '20'
-      position: 12978750
-    rsid: rs4814176
   trait_info:
     ontology:
     - HMDB0013469
@@ -10002,17 +7901,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '10'
-      position: 61469538
-    locus_GRCh38:
-      chromosome: '10'
-      position: 59709780
-    rsid: rs1171614
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -10063,17 +7951,6 @@
       chromosome: '22'
       position: 18972171
     rsid: rs2540641
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '22'
-      position: 18959684
-    locus_GRCh38:
-      chromosome: '22'
-      position: 18972171
-    rsid: rs2540641
   trait_info:
     ontology:
     - HMDB0000162
@@ -10103,17 +7980,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '7'
-      position: 56079094
-    locus_GRCh38:
-      chromosome: '7'
-      position: 56011401
-    rsid: rs4947534
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -10163,17 +8029,6 @@
       chromosome: '1'
       position: 39937698
     rsid: rs7529794
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: G
-    locus_GRCh37:
-      chromosome: '1'
-      position: 40403370
-    locus_GRCh38:
-      chromosome: '1'
-      position: 39937698
-    rsid: rs7529794
   trait_info:
     ontology:
     - HMDB0010382
@@ -10204,17 +8059,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '2'
-      position: 178370631
-    locus_GRCh38:
-      chromosome: '2'
-      position: 177505903
-    rsid: rs7582179
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -10266,17 +8110,6 @@
       chromosome: '4'
       position: 184852657
     rsid: rs7700133
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '4'
-      position: 185773811
-    locus_GRCh38:
-      chromosome: '4'
-      position: 184852657
-    rsid: rs7700133
   trait_info:
     ontology:
     - HMDB0013456
@@ -10307,17 +8140,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: T
-    locus_GRCh37:
-      chromosome: '18'
-      position: 19263128
-    locus_GRCh38:
-      chromosome: '18'
-      position: 21683167
-    rsid: rs7343008
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: T
@@ -10375,17 +8197,6 @@
       chromosome: '5'
       position: 35037010
     rsid: rs37369
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '5'
-      position: 35037115
-    locus_GRCh38:
-      chromosome: '5'
-      position: 35037010
-    rsid: rs37369
   trait_info:
     ontology:
     - HMDB0003911
@@ -10428,17 +8239,6 @@
       chromosome: '2'
       position: 240898035
     rsid: rs6748734
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '2'
-      position: 241837452
-    locus_GRCh38:
-      chromosome: '2'
-      position: 240898035
-    rsid: rs6748734
   trait_info:
     ontology:
     - HMDB0000019
@@ -10469,17 +8269,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: G
-    locus_GRCh37:
-      chromosome: '3'
-      position: 45814094
-    locus_GRCh38:
-      chromosome: '3'
-      position: 45772602
-    rsid: rs17279437
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: G
@@ -10532,17 +8321,6 @@
       chromosome: '4'
       position: 108784811
     rsid: rs56043887
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '4'
-      position: 109705967
-    locus_GRCh38:
-      chromosome: '4'
-      position: 108784811
-    rsid: rs56043887
   trait_info:
     ontology:
     - HMDB0000149
@@ -10573,17 +8351,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '5'
-      position: 150698806
-    locus_GRCh38:
-      chromosome: '5'
-      position: 151319245
-    rsid: rs3846710
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -10625,17 +8392,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '3'
-      position: 38395562
-    locus_GRCh38:
-      chromosome: '3'
-      position: 38354071
-    rsid: rs3132440
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -10692,17 +8448,6 @@
       chromosome: '5'
       position: 1183445
     rsid: rs11750211
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '5'
-      position: 1183560
-    locus_GRCh38:
-      chromosome: '5'
-      position: 1183445
-    rsid: rs11750211
   trait_info:
     ontology:
     - HMDB0000158
@@ -10733,17 +8478,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '16'
-      position: 25002600
-    locus_GRCh38:
-      chromosome: '16'
-      position: 24991279
-    rsid: rs17702912
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -10794,17 +8528,6 @@
       chromosome: '20'
       position: 46632402
     rsid: rs941206
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '20'
-      position: 45261041
-    locus_GRCh38:
-      chromosome: '20'
-      position: 46632402
-    rsid: rs941206
   trait_info:
     ontology:
     - HMDB0000254
@@ -10835,17 +8558,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '6'
-      position: 110760008
-    locus_GRCh38:
-      chromosome: '6'
-      position: 110438805
-    rsid: rs12210538
-  sentinel_variant_new:
     alleles:
       alternative: G
       reference: A
@@ -10896,17 +8608,6 @@
       chromosome: '8'
       position: 144476070
     rsid: rs750472
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '8'
-      position: 145701453
-    locus_GRCh38:
-      chromosome: '8'
-      position: 144476070
-    rsid: rs750472
   trait_info:
     ontology:
     - HMDB0000161
@@ -10938,17 +8639,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '9'
-      position: 131865027
-    locus_GRCh38:
-      chromosome: '9'
-      position: 129102748
-    rsid: rs746872
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -11001,17 +8691,6 @@
       chromosome: '21'
       position: 36964534
     rsid: rs1571700
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '21'
-      position: 38336834
-    locus_GRCh38:
-      chromosome: '21'
-      position: 36964534
-    rsid: rs1571700
   trait_info:
     ontology:
     - HMDB0061189
@@ -11041,17 +8720,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '19'
-      position: 41353107
-    locus_GRCh38:
-      chromosome: '19'
-      position: 40847202
-    rsid: rs56113850
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -11102,17 +8770,6 @@
       chromosome: '17'
       position: 6692079
     rsid: rs172642
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '17'
-      position: 6595398
-    locus_GRCh38:
-      chromosome: '17'
-      position: 6692079
-    rsid: rs172642
   trait_info:
     ontology:
     - HMDB0000094
@@ -11143,17 +8800,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '22'
-      position: 19161935
-    locus_GRCh38:
-      chromosome: '22'
-      position: 19174422
-    rsid: rs2040771
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
@@ -11205,17 +8851,6 @@
       chromosome: '2'
       position: 210675783
     rsid: rs1047891
-  sentinel_variant_new:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '2'
-      position: 211540507
-    locus_GRCh38:
-      chromosome: '2'
-      position: 210675783
-    rsid: rs1047891
   trait_info:
     ontology:
     - HMDB0000123
@@ -11246,17 +8881,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: TA
-      reference: T
-    locus_GRCh37:
-      chromosome: '9'
-      position: 5877295
-    locus_GRCh38:
-      chromosome: '9'
-      position: 5877295
-    rsid: rs140348140
-  sentinel_variant_new:
     alleles:
       alternative: TA
       reference: T
@@ -11307,17 +8931,6 @@
       chromosome: '16'
       position: 81031677
     rsid: rs10083777
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '16'
-      position: 81065282
-    locus_GRCh38:
-      chromosome: '16'
-      position: 81031677
-    rsid: rs10083777
   trait_info:
     ontology:
     - HMDB0000123
@@ -11347,17 +8960,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '1'
-      position: 161190250
-    locus_GRCh38:
-      chromosome: '1'
-      position: 161220460
-    rsid: rs4503368
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -11398,17 +9000,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: C
-      reference: T
-    locus_GRCh37:
-      chromosome: '20'
-      position: 44551855
-    locus_GRCh38:
-      chromosome: '20'
-      position: 45923216
-    rsid: rs6073958
-  sentinel_variant_new:
     alleles:
       alternative: C
       reference: T
@@ -11465,17 +9056,6 @@
       chromosome: '12'
       position: 46808031
     rsid: rs4554975
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 47201814
-    locus_GRCh38:
-      chromosome: '12'
-      position: 46808031
-    rsid: rs4554975
   trait_info:
     ontology:
     - HMDB0000161
@@ -11516,17 +9096,6 @@
       chromosome: '12'
       position: 56471554
     rsid: rs2657879
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 56865338
-    locus_GRCh38:
-      chromosome: '12'
-      position: 56471554
-    rsid: rs2657879
   trait_info:
     ontology:
     - HMDB0000641
@@ -11557,17 +9126,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '12'
-      position: 96314795
-    locus_GRCh38:
-      chromosome: '12'
-      position: 95921017
-    rsid: rs7954638
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -11619,17 +9177,6 @@
       chromosome: '12'
       position: 102848618
     rsid: rs1718309
-  sentinel_variant_new:
-    alleles:
-      alternative: G
-      reference: A
-    locus_GRCh37:
-      chromosome: '12'
-      position: 103242396
-    locus_GRCh38:
-      chromosome: '12'
-      position: 102848618
-    rsid: rs1718309
   trait_info:
     ontology:
     - HMDB0000159
@@ -11660,17 +9207,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: A
-      reference: C
-    locus_GRCh37:
-      chromosome: '6'
-      position: 111543944
-    locus_GRCh38:
-      chromosome: '6'
-      position: 111222741
-    rsid: rs14399
-  sentinel_variant_new:
     alleles:
       alternative: A
       reference: C
@@ -11722,17 +9258,6 @@
       chromosome: '4'
       position: 88285078
     rsid: rs9637599
-  sentinel_variant_new:
-    alleles:
-      alternative: C
-      reference: A
-    locus_GRCh37:
-      chromosome: '4'
-      position: 89206230
-    locus_GRCh38:
-      chromosome: '4'
-      position: 88285078
-    rsid: rs9637599
   trait_info:
     ontology:
     - HMDB0000883
@@ -11773,17 +9298,6 @@
       chromosome: '16'
       position: 69945368
     rsid: rs74249229
-  sentinel_variant_new:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '16'
-      position: 69979271
-    locus_GRCh38:
-      chromosome: '16'
-      position: 69945368
-    rsid: rs74249229
   trait_info:
     ontology:
     - HMDB0000243
@@ -11814,17 +9328,6 @@
     - metabolite
     - mQTL
   sentinel_variant:
-    alleles:
-      alternative: T
-      reference: C
-    locus_GRCh37:
-      chromosome: '7'
-      position: 72982874
-    locus_GRCh38:
-      chromosome: '7'
-      position: 73568544
-    rsid: rs17145738
-  sentinel_variant_new:
     alleles:
       alternative: T
       reference: C
