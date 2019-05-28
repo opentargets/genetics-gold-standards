@@ -3,3 +3,5 @@ dependencies:
 - jsonschema
 - pandas
 - pyyaml
+- pip:
+  - pyliftover

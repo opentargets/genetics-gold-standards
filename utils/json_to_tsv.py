@@ -10,7 +10,7 @@ import json
 import yaml
 import argparse
 import pandas as pd
-from collections import MutableMapping
+from collections.abc import MutableMapping
 
 def main():
 

@@ -8,6 +8,17 @@ Repository for GWAS variant to gene gold standards
 Draft schema:
 - https://docs.google.com/document/d/1qVc1Th67nmDmQLFuvPXuek1OmR-10R4bp_kgK-cICYw/edit
 
+
+## How to submit a new gold standard
+
+Todo
+
+- positions must be from gnomad
+
+## Process new gold standards
+
+The sections contains instructions for validating new gold standards and processing them
+
 ### Set up environment
 
 ```
@@ -15,7 +26,7 @@ conda env create -n goldstandards --file environment.yaml
 conda activate gold_standards
 ```
 
-### Usage
+### Other useful commands
 
 ```
 # Convert between json and yaml
