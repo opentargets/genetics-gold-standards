@@ -9,30 +9,36 @@ Draft schema:
 - https://docs.google.com/document/d/1qVc1Th67nmDmQLFuvPXuek1OmR-10R4bp_kgK-cICYw/edit
 
 
-## How to submit a new gold standard
+### How to submit a new gold standard
 
 Todo
 
 - positions must be from gnomad
 
-## Process new gold standards
+### Validate and process new gold standards
 
-The sections contains instructions for validating new gold standards and processing them
-
-### Set up environment
+The sections contains instructions for validating and processing newly submitted gold standards.
 
 ```
+# Set up environment
 conda env create -n goldstandards --file environment.yaml
 conda activate gold_standards
-```
 
-### Other useful commands
+# Validate against schema (input can be json or yaml)
+python validation/validator.py \
+  --input temp/progem/progem.190517.yaml \
+  --schema validation/goldstandard_schema.v1.2.json
 
-```
-# Convert between json and yaml
-python utils/json_yaml_converter.py --input file.yaml --output file.json
-python utils/json_yaml_converter.py --input file.json --output file.yaml
+# Convert to json
+python utils/json_yaml_converter.py \
+  --input temp/progem/progem.190517.yaml \
+  --output temp/progem/progem.190517.json
 
-# Validate schema
-python validation/validator.py --input test.single.json --schema validation/goldstandard_schema.v1.1.json
+# Add to `gold_standards/unprocessed_validated`
+mv temp/progem/progem.190517.json \
+  gold_standards/unprocessed_validated/progem.190517.json
+
+# Process all gold standards in `gold_standards/unprocessed_validated`
+nano processing/process_and_convert_formats.sh # Edit Args
+bash processing/process_and_convert_formats.sh
 ```
