@@ -135,8 +135,17 @@
                     "pattern": "^GCST[0-9]{6}$"
                 }
             },
-            "required": [
-                "pubmed_id"
+            "anyOf": [
+                {
+                    "required": [
+                        "pubmed_id"
+                    ]
+                },
+                {
+                    "required": [
+                        "doi"
+                    ]
+                }
             ],
             "additionalProperties": true
         },
