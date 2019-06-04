@@ -102,7 +102,7 @@ metadata:
 
 1. Download the template yaml from [here](gold_standards/templates/single_gold_standard.v1.2.yaml) if submitting a single gold standard or [here](gold_standards/templates/multi_gold_standard.v1.2.yaml) if submitting multiple at once
 2. Fill in the yaml file
-3. [Create a new issue](https://github.com/opentargets/genetics-gold-standards/issues) including them completed yaml file
+3. [Create a new issue](https://github.com/opentargets/genetics-gold-standards/issues) including the completed yaml file
 
 We will then review the submission and add it to the repository.
 
