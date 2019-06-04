@@ -5,9 +5,91 @@ WORK IN PROGRESS
 
 Repository for GWAS variant to gene gold standards
 
+### Gold standard schema
+
 Draft schema:
 - https://docs.google.com/document/d/1qVc1Th67nmDmQLFuvPXuek1OmR-10R4bp_kgK-cICYw/edit
 
+The gold standard schema consists of 5 sections:
+
+- `sentinel_variant`: Information about the sentinel/lead GWAS variant
+- `trait_info`: Information about the GWAS trait or disease
+- `association_info`: Evidence linking the sentinel variant to the trait through GWAS
+- `gold_standard_info`: Evidence linking the GWAS signal (variant, trait, association) to a gene
+- `metadata`: Additional information
+
+#### Example schema in yaml format
+
+```yaml
+# Sentinel variant information, alleles must match gnomAD
+sentinel_variant:
+  # Locus chrom and position on either GRCh37 or GRCh38 are required
+  locus_GRCh37:
+    chromosome: '16'
+    position: 81264597
+  locus_GRCh38:
+    chromosome: '16'
+    position: 81230992
+  # Alleles are required
+  alleles:
+    alternative: G
+    reference: T
+  # Alleles are optional
+  rsid: rs6564851
+
+# Trait/disease information
+trait_info:
+  # List of ontology codes for the trait, should be EFO if possible
+  ontology:
+  - HMDB0000561
+  # Trait reported by the author and standardised trait name (from ontology)
+  reported_trait_name: Carotenoid and tocopherol levels (beta-carotene)
+  standard_trait_name: B-Carotene
+
+# Association evidence
+association_info:
+  # List of ancestries in which the association was detected
+  ancestry:
+  - EUR
+  # GWAS Catalog study ID if available
+  gwas_catalog_id: GCST000324
+  # Negative log p-value (optional)
+  neg_log_pval: 23.699
+  # Pubmed ID or doi
+  pubmed_id: '19185284'
+  doi: '10.1101/592238'
+
+# Gold standard evidence
+gold_standard_info:
+  # Ensembl gene ID
+  gene_id: ENSG00000135697
+  # List of evidences support link with gene
+  evidence:
+  # Item 1 in list
+  - class: expert curated # See below for evidence classes
+    # Confidence should be "High" or "Low"
+    confidence: High
+    # Evidence curator
+    curated_by: Eric Fauman
+    # Description of evidence
+    description: BCO1 (previously referred to as BCMO1) encodes beta-carotene oxygenase
+      1 which uses a molecule of oxygen to produce two molecules of retinol from
+      beta-carotene.  Enzyme deficiency results in accumulation of beta-carotene.
+    # Pubmed ID
+    pubmed_id: '11401432'
+
+# Metadata
+metadata:
+  date_added: '2019-05-17'
+  reviewed_by: Ed Mountjoy
+  # Name given to the group of gold standards
+  set_label: ProGeM
+  submitted_by: Eric Fauman
+  # Additional tags that may be useful for analysis
+  tags:
+  - metabolite
+  - mQTL
+```
 
 ### How to submit a new gold standard
 
@@ -19,7 +101,7 @@ Todo
 
 The sections contains instructions for validating and processing newly submitted gold standards.
 
-```
+```bash
 # Set up environment
 conda env create -n goldstandards --file environment.yaml
 conda activate gold_standards
