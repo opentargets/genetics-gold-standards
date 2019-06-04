@@ -1,0 +1,51 @@
+sentinel_variant:
+  alleles:
+    alternative: 'String'
+    reference: 'String'
+  locus_GRCh37:
+    chromosome: 'String'
+    position: Integer
+  locus_GRCh38:
+    chromosome: 'String'
+    position: Integer
+  rsid: 'String'
+trait_info:
+  ontology:
+  - 'Item 1: String'
+  - 'Item 2: String' 
+  reported_trait_name: 'String'
+  standard_trait_name: 'String'
+association_info:
+  ancestry:
+  - 'Item 1: String'
+  - 'Item 2: String'
+  gwas_catalog_id: 'String'
+  neg_log_pval: Float
+  pubmed_id: 'String'
+gold_standard_info:
+  evidence:
+  - class: 'Item 1: String'
+    confidence: 'Item 1: String'
+    curated_by: 'Item 1: String'
+    description: 'Item 1: Multi
+      line
+      description'
+    pubmed_id: 'Item 1: String'
+    doi: 'Item 1: String'
+  - class: 'Item 2: String'
+    confidence: 'Item 2: String'
+    curated_by: 'Item 2: String'
+    description: 'Item 2: Multi
+      line
+      description'
+    pubmed_id: 'Item 2: String'
+    doi: 'Item 2: String'
+  gene_id: 'String'
+metadata:
+  date_added: 'Date'
+  reviewed_by: 'String'
+  set_label: 'String'
+  submitted_by: 'String'
+  tags:
+  - 'Item 1: String'
+  - 'Item 2: String'
