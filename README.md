@@ -3,7 +3,9 @@ GWAS Gold Standards
 
 WORK IN PROGRESS
 
-Repository for GWAS variant to gene gold standards. The latest set of gold standards can be found in `gold_standards/processed` in various file formats. The TSV file has array based fields concatenated together using '|' as a seporator.
+Repository for GWAS variant to gene gold standards.
+
+`gold_standards/processed` contains the latest set of gold standards in a variety of formats. Note, the TSV file has arrays concatenated together using '|' as a seporator.
 
 ### Gold standard schema
 
