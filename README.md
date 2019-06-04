@@ -7,6 +7,11 @@ Repository for GWAS variant to gene gold standards.
 
 `gold_standards/processed` contains the latest set of gold standards in a variety of formats. Note, the TSV file has arrays concatenated together using '|' as a seporator.
 
+Todo:
+- Update readme with details of the gold standards contained in the repository
+- Scripts to produce descriptive statistics for each gold standard set
+- Derive new gold standards based on drug and rare disease data
+
 ### Gold standard schema
 
 The gold standard schema consists of 5 sections:
