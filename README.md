@@ -95,7 +95,7 @@ metadata:
 
 1. "expert curated": association curated by an expert
 2. "functional experimental": association inferred from experimental alteration (intervention), e.g. CRISPR editing
-3. "functional obser  vational": association inferred from observational evidence, e.g. correlation with quantitative trait such as eQTL or pQTL
+3. "functional observational": association inferred from observational evidence, e.g. correlation with quantitative trait such as eQTL or pQTL
 4. "drug": association inferred from known drug target-indication pairs
 
 ### How to submit a new gold standard
@@ -103,6 +103,8 @@ metadata:
 1. Download the template yaml from [here](gold_standards/templates/single_gold_standard.v1.2.yaml) if submitting a single gold standard or [here](gold_standards/templates/multi_gold_standard.v1.2.yaml) if submitting multiple at once
 2. Fill in the yaml file
 3. [Create a new issue](https://github.com/opentargets/genetics-gold-standards/issues) including them completed yaml file
+
+We will then review the submission and add it to the repository.
 
 ### Validate and process new gold standards
 
