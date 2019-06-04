@@ -108,7 +108,7 @@ We will then review the submission and add it to the repository.
 
 ### Validate and process new gold standards
 
-The sections contains instructions for validating and processing newly submitted gold standards.
+The sections contains instructions for validating and processing newly submitted gold standards. Submitters are not required to validate and process new gold stnadards.
 
 ```bash
 # Set up environment
