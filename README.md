@@ -70,7 +70,7 @@ gold_standard_info:
     # Confidence should be "High" or "Low"
     confidence: High
     # Evidence curator
-    curated_by: Eric Fauman
+    curated_by: EF
     # Description of evidence
     description: BCO1 (previously referred to as BCMO1) encodes beta-carotene oxygenase
       1 which uses a molecule of oxygen to produce two molecules of retinol from
@@ -81,10 +81,10 @@ gold_standard_info:
 # Metadata
 metadata:
   date_added: '2019-05-17'
-  reviewed_by: Ed Mountjoy
+  reviewed_by: EM
   # Name given to the group of gold standards
   set_label: ProGeM
-  submitted_by: Eric Fauman
+  submitted_by: EF
   # Additional tags that may be useful for analysis
   tags:
   - metabolite
