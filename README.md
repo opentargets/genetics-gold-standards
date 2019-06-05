@@ -38,7 +38,7 @@ sentinel_variant:
   alleles:
     alternative: G
     reference: T
-  # Alleles are optional
+  # rsID is optional
   rsid: rs6564851
 
 # Trait/disease information
@@ -93,6 +93,7 @@ metadata:
   tags:
   - metabolite
   - mQTL
+  comments: 'No comments'
 ```
 
 #### Possible evidence classes

@@ -50,6 +50,7 @@
     tags:
     - 'Item 1: String'
     - 'Item 2: String'
+    comments: 'String'
 # Gold standard # 2
 - sentinel_variant:
     alleles:
@@ -102,3 +103,4 @@
     tags:
     - 'Item 1: String'
     - 'Item 2: String'
+    comments: 'String'

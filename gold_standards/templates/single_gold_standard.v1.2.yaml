@@ -49,3 +49,4 @@ metadata:
   tags:
   - 'Item 1: String'
   - 'Item 2: String'
+  comments: 'String'
