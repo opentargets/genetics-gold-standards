@@ -57,6 +57,8 @@ association_info:
   - EUR
   # GWAS Catalog study ID if available
   gwas_catalog_id: GCST000324
+  # Open Targets Genetics study ID if available
+  otg_id: GCST000324
   # Negative log p-value (optional)
   neg_log_pval: 23.699
   # Pubmed ID or doi
@@ -79,8 +81,9 @@ gold_standard_info:
     description: BCO1 (previously referred to as BCMO1) encodes beta-carotene oxygenase
       1 which uses a molecule of oxygen to produce two molecules of retinol from
       beta-carotene.  Enzyme deficiency results in accumulation of beta-carotene.
-    # Pubmed ID
+    # Pubmed ID or source
     pubmed_id: '11401432'
+    source: ChEMBL drug data
 
 # Metadata
 metadata:
@@ -123,7 +126,7 @@ conda activate gold_standards
 # Validate against schema (input can be json or yaml)
 python validation/validator.py \
   --input temp/progem/progem.190517.yaml \
-  --schema validation/goldstandard_schema.v1.2.json
+  --schema validation/goldstandard_schema.v1.3.json
 
 # Convert to json
 python utils/json_yaml_converter.py \
