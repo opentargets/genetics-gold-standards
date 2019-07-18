@@ -22,7 +22,7 @@ def main():
 
     # Parse args
     args = parse_args()
-    confidence_orders = ['High', 'Low'] # Used to sort "highest" confidence
+    confidence_orders = ['High', 'Medium', 'Low'] # Used to sort "highest" confidence
 
     # Load gold-standards
     gold_standards = load_gold_standards(args.input_pattern)
