@@ -126,7 +126,7 @@ conda activate gold_standards
 # Validate against schema (input can be json or yaml)
 python validation/validator.py \
   --input temp/progem/progem.190517.yaml \
-  --schema validation/goldstandard_schema.v1.3.json
+  --schema validation/goldstandard_schema.v1.4.json
 
 # Convert to json
 python utils/json_yaml_converter.py \

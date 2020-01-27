@@ -1,0 +1,284 @@
+{
+    "type": "object",
+    "properties": {
+
+
+        "sentinel_variant": {
+            "type": "object",
+            "title": "Senetial variant information", 
+            "properties": {
+                "rsid": {
+                    "type": "string",
+                    "pattern": "^rs[0-9]+"
+                },
+                "locus_GRCh37": {
+                    "type": "object",
+                    "properties": {
+                        "chromosome": {
+                            "type": "string"
+                        },
+                        "position": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0
+                        }
+                    },
+                    "required": [
+                        "chromosome",
+                        "position"
+                    ],
+                    "additionalProperties": false
+                },
+                "locus_GRCh38": {
+                    "type": "object",
+                    "properties": {
+                        "chromosome": {
+                            "type": "string"
+                        },
+                        "position": {
+                            "type": "integer",
+                            "exclusiveMinimum": 0
+                        }
+                    },
+                    "required": [
+                        "chromosome",
+                        "position"
+                    ],
+                    "additionalProperties": false
+                },
+                "alleles": {
+                    "type": "object",
+                    "properties": {
+                        "reference": {
+                            "type": "string",
+                            "pattern": "^[ATGC]+$"
+                        },
+                        "alternative": {
+                            "type": "string",
+                            "pattern": "^[ATGC]+$"
+                        }
+                    },
+                    "additionalProperties": false
+                }
+            },
+            "required": [
+                "alleles"
+            ],
+            "anyOf": [
+                {
+                    "required": [
+                        "locus_GRCh37"
+                    ]
+                },
+                {
+                    "required": [
+                        "locus_GRCh38"
+                    ]
+                }
+            ],
+            "additionalProperties": false
+        },
+
+
+        "trait_info": {
+            "type": "object",
+            "title": "Information about the trait",
+            "properties": {
+                "reported_trait_name": {
+                    "type": "string"
+                },
+                "standard_trait_name": {
+                    "type": "string",
+                    "description": "For example, the ontology label"
+                },
+                "ontology": {
+                    "type": "array"
+                },
+                "additionalProperties": false
+            },
+            "required": [
+                "ontology"
+            ],
+            "additionalProperties": true
+        },
+
+
+        "association_info": {
+            "type": "object",
+            "title": "Information about the variant-trait association",
+            "properties": {
+                "neg_log_pval": {
+                    "type": "number",
+                    "exclusiveMinimum": 0
+                },
+                "ancestry": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "pattern": "^(?!\\?)"
+                    }
+                },
+                "pubmed_id": {
+                    "type": "string",
+                    "pattern": "^[0-9]{8}$"
+                },
+                "doi": {
+                    "type": "string",
+                    "pattern": "^10.\\d{4,9}/[-._;()/:A-Za-z0-9]+$"
+                },
+                "url": {
+                    "type": "string"
+                },
+                "gwas_catalog_id": {
+                    "type": "string",
+                    "pattern": "^GCST[0-9]{6}$"
+                }
+            },
+            "anyOf": [
+                {
+                    "required": [
+                        "pubmed_id"
+                    ]
+                },
+                {
+                    "required": [
+                        "doi"
+                    ]
+                },
+                {
+                    "required": [
+                        "url"
+                    ]
+                }
+            ],
+            "additionalProperties": true
+        },
+
+
+        "gold_standard_info": {
+            "type": "object",
+            "title": "Information about gold-standard variant-gene evidence",
+            "properties": {
+                "gene_id": {
+                    "type": "string",
+                    "pattern": "^ENSG"
+                },
+                "evidence": {
+                    "type": "array",
+                    "items": {
+                        "description": "List of evidences linking the variant to the gene",
+                        "type": "object",
+                        "properties": {
+                            "class": {
+                                "type": "string",
+                                "enum": [
+                                    "expert curated",
+                                    "functional observational",
+                                    "functional experimental",
+                                    "drug"
+                                ]
+                            },
+                            "description": {
+                                "type": "string",
+                                "pattern": "^(?!\\?)"
+                            },
+                            "pubmed_id": {
+                                "type": "string",
+                                "pattern": "^[0-9]{8}$"
+                            },
+                            "doi": {
+                                "type": "string",
+                                "pattern": "^10.\\d{4,9}/[-._;()/:A-Za-z0-9]+$"
+                            },
+                            "source": {
+                                "type": "string"
+                            },
+                            "date": {
+                                "type": "string",
+                                "format": "date",
+                                "description": "Useful for using date to stratify gold-standards"
+                            },
+                            "confidence": {
+                                "type": "string",
+                                "enum": [
+                                    "High",
+                                    "Medium",
+                                    "Low"
+                                ]
+                            },
+                            "curated_by": {
+                                "type": "string"
+                            }
+                        },
+                        "additionalProperties": false,
+                        "required": [
+                            "class",
+                            "description",
+                            "confidence",
+                            "curated_by"
+                        ],
+                        "anyOf": [
+                            {
+                                "required": [
+                                    "pubmed_id"
+                                ]
+                            },
+                            {
+                                "required": [
+                                    "doi"
+                                ]
+                            },
+                            {
+                                "required": [
+                                    "source"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            },
+            "required": [
+                "gene_id",
+                "evidence"
+            ],
+            "additionalProperties": true
+        },
+
+
+        "metadata": {
+            "type": "object",
+            "title": "Metadata",
+            "properties": {
+                "set_label": {
+                    "type": "string",
+                    "description": "Set that this gold-standard belongs to"
+                },
+                "tags": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                },
+                "submitted_by": {
+                    "type": "string"
+                },
+                "reviewed_by": {
+                    "type": "string"
+                },
+                "date_added": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "comments": {
+                    "type": "string"
+                }
+            },
+            "required": [
+                "set_label",
+                "submitted_by",
+                "reviewed_by",
+                "date_added"
+            ],
+            "additionalProperties": true
+        }
+    }
+}

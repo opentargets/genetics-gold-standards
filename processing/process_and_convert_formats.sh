@@ -2,11 +2,11 @@
 #
 
 set -euo pipefail
-set -f # Noglob
+set -f # No glob
 
 # Args
 in_glob='../gold_standards/unprocessed_validated/*.json'
-out_prefix='../gold_standards/processed/gwas_gold_standards.190725'
+out_prefix='../gold_standards/processed/gwas_gold_standards.191108'
 
 # Get this working directory
 work_dir=$(dirname "$0")
