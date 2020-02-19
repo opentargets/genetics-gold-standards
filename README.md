@@ -3,14 +3,17 @@ GWAS Gold Standards
 
 WORK IN PROGRESS
 
+### Gold Standard contained in the repository
+We assembled a repository of published GWAS loci for which we have high confidence in the gene functionally implicated. Gold-standard evidence were grouped into 4 classes: (i) GWAS loci that overlap with drug targets; (ii) expert curated loci with strong orthogonal evidence or biological plausibility; (ii) ; (iii) loci inferred from experimental alteration (e.g. nucleotide editing); (iv) loci inferred from observational functional data (e.g. colocalising molecular QTLs). We also assigned each gold-standard a confidence rating of high, medium or low depending on our assessment of the strength of supporting evidence.
+
+
+To do: 
+- Scripts to produce descriptive statistics for each gold standard set
+- Derive new gold standards based on drug and rare disease data
+
 Repository for GWAS variant to gene gold standards.
 
 `gold_standards/processed` contains the latest set of gold standards in a variety of formats. Note, the TSV file has arrays concatenated together using '|' as a seporator.
-
-Todo:
-- Update readme with details of the gold standards contained in the repository
-- Scripts to produce descriptive statistics for each gold standard set
-- Derive new gold standards based on drug and rare disease data
 
 ### Gold standard schema
 
