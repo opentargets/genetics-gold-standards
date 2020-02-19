@@ -3,17 +3,17 @@ GWAS Gold Standards
 
 WORK IN PROGRESS
 
-### Gold Standard contained in the repository
-We assembled a repository of published GWAS loci for which we have high confidence in the gene functionally implicated. Gold-standard evidence were grouped into 4 classes: (i) GWAS loci that overlap with drug targets; (ii) expert curated loci with strong orthogonal evidence or biological plausibility; (ii) ; (iii) loci inferred from experimental alteration (e.g. nucleotide editing); (iv) loci inferred from observational functional data (e.g. colocalising molecular QTLs). We also assigned each gold-standard a confidence rating of high, medium or low depending on our assessment of the strength of supporting evidence.
+### GWAS Gold Standards contained in the repository
 
-
-To do: 
-- Scripts to produce descriptive statistics for each gold standard set
-- Derive new gold standards based on drug and rare disease data
+We assembled a repository of >400 published GWAS loci for which we have high confidence in the gene functionally implicated. Gold-standard evidence were grouped into 4 classes: (i) GWAS loci that overlap with drug targets-disease pairs; (ii) expert curated loci with strong orthogonal evidence or biological plausibility;  (iii) GWAS loci that have been investigated by functional follow up experiments (e.g. Reporter Assays, CRISPR/Cas9 genome editing); (iv) loci inferred from observational functional data (e.g. colocalisation with molecular QTLs and epigenetics marks). We also assigned each gold-standard a confidence rating of high, medium or low depending on our assessment of the strength of supporting evidence.
 
 Repository for GWAS variant to gene gold standards.
 
 `gold_standards/processed` contains the latest set of gold standards in a variety of formats. Note, the TSV file has arrays concatenated together using '|' as a seporator.
+
+To do: 
+- Scripts to produce descriptive statistics for each gold standard set
+- Derive new gold standards based on drug and rare disease data
 
 ### Gold standard schema
 
